@@ -1,0 +1,680 @@
+[
+  {
+    "download_status": "complete",
+    "family": "afm",
+    "key": "afm45b_base",
+    "language": "en",
+    "model_id": "arcee-ai/AFM-4.5B-Base",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "afm",
+    "key": "afm45b_inst",
+    "language": "en",
+    "model_id": "arcee-ai/AFM-4.5B",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "aixcoder",
+    "key": "aixcoder7b_base",
+    "language": "code",
+    "model_id": "aiXcoder/aixcoder-7b-base",
+    "revision": "main",
+    "stage": "code",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "allam",
+    "key": "allam7b_inst",
+    "language": "ar-en",
+    "model_id": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "amber",
+    "key": "amber7b",
+    "language": "en",
+    "model_id": "LLM360/Amber",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "amber",
+    "key": "amberchat7b",
+    "language": "en",
+    "model_id": "LLM360/AmberChat",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "biomedlm",
+    "key": "biomedlm27b",
+    "language": "biomedical",
+    "model_id": "stanford-crfm/BioMedLM",
+    "revision": "main",
+    "stage": "medical"
+  },
+  {
+    "download_status": "complete",
+    "family": "calm",
+    "key": "calm2_7b",
+    "language": "ja-en",
+    "model_id": "cyberagent/calm2-7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "calm",
+    "key": "calm2_7b_chat",
+    "language": "ja-en",
+    "model_id": "cyberagent/calm2-7b-chat",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "codeshell",
+    "key": "codeshell7b",
+    "language": "code",
+    "model_id": "WisdomShell/CodeShell-7B",
+    "revision": "main",
+    "stage": "code",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "codeshell",
+    "key": "codeshell7b_chat",
+    "language": "code",
+    "model_id": "WisdomShell/CodeShell-7B-Chat",
+    "revision": "main",
+    "stage": "code",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "comma",
+    "key": "comma7b_2t",
+    "language": "en",
+    "model_id": "common-pile/comma-v0.1-2t",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "crystal",
+    "key": "crystalcoder7b",
+    "language": "code",
+    "model_id": "LLM360/CrystalCoder",
+    "revision": "main",
+    "stage": "code",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "ctllm",
+    "key": "ctllm2b_base",
+    "language": "zh",
+    "model_id": "m-a-p/CT-LLM-Base",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "danube",
+    "key": "danube3_4b_base",
+    "language": "en",
+    "model_id": "h2oai/h2o-danube3-4b-base",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "danube",
+    "key": "danube3_4b_chat",
+    "language": "en",
+    "model_id": "h2oai/h2o-danube3-4b-chat",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "danube",
+    "key": "danube3_500m_base",
+    "language": "en",
+    "model_id": "h2oai/h2o-danube3-500m-base",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "eurollm",
+    "key": "eurollm17b",
+    "language": "eu-multi",
+    "model_id": "utter-project/EuroLLM-1.7B",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "fox",
+    "key": "fox16b_base",
+    "language": "en",
+    "model_id": "tensoropera/Fox-1-1.6B",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "fox",
+    "key": "fox16b_inst",
+    "language": "en",
+    "model_id": "tensoropera/Fox-1-1.6B-Instruct-v0.1",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "galactica",
+    "key": "galactica67b",
+    "language": "science",
+    "model_id": "facebook/galactica-6.7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "hunyuan",
+    "key": "hunyuan05b_base",
+    "language": "zh-en",
+    "model_id": "tencent/Hunyuan-0.5B-Pretrain",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "hunyuan",
+    "key": "hunyuan18b_inst",
+    "language": "zh-en",
+    "model_id": "tencent/Hunyuan-1.8B-Instruct",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "hunyuan",
+    "key": "hunyuan7b_inst",
+    "language": "zh-en",
+    "model_id": "tencent/Hunyuan-7B-Instruct",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "hyperclovax",
+    "key": "hyperclovax05b_inst",
+    "language": "ko-en",
+    "model_id": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "index",
+    "key": "index19b_base",
+    "language": "zh-en",
+    "model_id": "IndexTeam/Index-1.9B",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "index",
+    "key": "index19b_chat",
+    "language": "zh-en",
+    "model_id": "IndexTeam/Index-1.9B-Chat",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "instella",
+    "key": "instella3b_base",
+    "language": "en",
+    "model_id": "amd/Instella-3B",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "instella",
+    "key": "instella3b_inst",
+    "language": "en",
+    "model_id": "amd/Instella-3B-Instruct",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "kanana",
+    "key": "kanana21b_base",
+    "language": "ko-en",
+    "model_id": "kakaocorp/kanana-nano-2.1b-base",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "kanana",
+    "key": "kanana21b_inst",
+    "language": "ko-en",
+    "model_id": "kakaocorp/kanana-nano-2.1b-instruct",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "ling",
+    "key": "ling_lite",
+    "language": "zh-en",
+    "model_id": "inclusionAI/Ling-lite",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "llmjp",
+    "key": "llmjp3_18b",
+    "language": "ja-en",
+    "model_id": "llm-jp/llm-jp-3-1.8b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "llmjp",
+    "key": "llmjp3_37b",
+    "language": "ja-en",
+    "model_id": "llm-jp/llm-jp-3-3.7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "llmjp",
+    "key": "llmjp3_37b_inst",
+    "language": "ja-en",
+    "model_id": "llm-jp/llm-jp-3-3.7b-instruct",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "mapneo",
+    "key": "mapneo7b_base",
+    "language": "zh-en",
+    "model_id": "m-a-p/neo_7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "mapneo",
+    "key": "mapneo7b_inst",
+    "language": "zh-en",
+    "model_id": "m-a-p/neo_7b_instruct_v0.1",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "megrez",
+    "key": "megrez3b_inst",
+    "language": "zh-en",
+    "model_id": "Infinigence/Megrez-3B-Instruct",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "mgpt",
+    "key": "mgpt13b_large",
+    "language": "multi",
+    "model_id": "ai-forever/mGPT-13B",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "mgpt",
+    "key": "mgpt13b_multi",
+    "language": "multi",
+    "model_id": "ai-forever/mGPT",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "mimo",
+    "key": "mimo7b_base",
+    "language": "zh-en",
+    "model_id": "XiaomiMiMo/MiMo-7B-Base",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "mimo",
+    "key": "mimo7b_sft",
+    "language": "zh-en",
+    "model_id": "XiaomiMiMo/MiMo-7B-SFT",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "minerva",
+    "key": "minerva7b_base",
+    "language": "it-en",
+    "model_id": "sapienzanlp/Minerva-7B-base-v1.0",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "minerva",
+    "key": "minerva7b_inst",
+    "language": "it-en",
+    "model_id": "sapienzanlp/Minerva-7B-instruct-v1.0",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "moonlight",
+    "key": "moonlight16b_a3b",
+    "language": "zh-en",
+    "model_id": "moonshotai/Moonlight-16B-A3B",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "moonlight",
+    "key": "moonlight16b_a3b_inst",
+    "language": "zh-en",
+    "model_id": "moonshotai/Moonlight-16B-A3B-Instruct",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "motif",
+    "key": "motif26b",
+    "language": "en",
+    "model_id": "Motif-Technologies/Motif-2.6B",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "opencoder",
+    "key": "opencoder15b_base",
+    "language": "code",
+    "model_id": "infly/OpenCoder-1.5B-Base",
+    "revision": "main",
+    "stage": "code"
+  },
+  {
+    "download_status": "complete",
+    "family": "opencoder",
+    "key": "opencoder8b_base",
+    "language": "code",
+    "model_id": "infly/OpenCoder-8B-Base",
+    "revision": "main",
+    "stage": "code"
+  },
+  {
+    "download_status": "complete",
+    "family": "opencoder",
+    "key": "opencoder8b_inst",
+    "language": "code",
+    "model_id": "infly/OpenCoder-8B-Instruct",
+    "revision": "main",
+    "stage": "code"
+  },
+  {
+    "download_status": "complete",
+    "family": "orion",
+    "key": "orion14b_chat",
+    "language": "zh-en",
+    "model_id": "OrionStarAI/Orion-14B-Chat",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "palmyra",
+    "key": "palmyra_base",
+    "language": "en",
+    "model_id": "Writer/palmyra-base",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "palmyra",
+    "key": "palmyra_small",
+    "language": "en",
+    "model_id": "Writer/palmyra-small",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "pleias",
+    "key": "pleias12b",
+    "language": "multi",
+    "model_id": "PleIAs/Pleias-1.2b-Preview",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "pleias",
+    "key": "pleias350m",
+    "language": "multi",
+    "model_id": "PleIAs/Pleias-350m-Preview",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "pleias",
+    "key": "pleias3b",
+    "language": "multi",
+    "model_id": "PleIAs/Pleias-3b-Preview",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "polylm",
+    "key": "polylm17b",
+    "language": "multi",
+    "model_id": "DAMO-NLP-MT/polylm-1.7b",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "powerlm",
+    "key": "powerlm3b",
+    "language": "en",
+    "model_id": "ibm/PowerLM-3b",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "powerlm",
+    "key": "powermoe3b",
+    "language": "en",
+    "model_id": "ibm/PowerMoE-3b",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "salamandra",
+    "key": "salamandra2b",
+    "language": "eu-multi",
+    "model_id": "BSC-LT/salamandra-2b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "salamandra",
+    "key": "salamandra7b",
+    "language": "eu-multi",
+    "model_id": "BSC-LT/salamandra-7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "salamandra",
+    "key": "salamandra7b_inst",
+    "language": "eu-multi",
+    "model_id": "BSC-LT/salamandra-7b-instruct",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "sarashina",
+    "key": "sarashina2_7b",
+    "language": "ja-en",
+    "model_id": "sbintuitions/sarashina2-7b",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "sarvam",
+    "key": "sarvam1_2b",
+    "language": "indic",
+    "model_id": "sarvamai/sarvam-1",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "seed_coder",
+    "key": "seedcoder8b_base",
+    "language": "code",
+    "model_id": "ByteDance-Seed/Seed-Coder-8B-Base",
+    "revision": "main",
+    "stage": "code"
+  },
+  {
+    "download_status": "complete",
+    "family": "seed_coder",
+    "key": "seedcoder8b_inst",
+    "language": "code",
+    "model_id": "ByteDance-Seed/Seed-Coder-8B-Instruct",
+    "revision": "main",
+    "stage": "code"
+  },
+  {
+    "download_status": "complete",
+    "family": "skywork",
+    "key": "skywork13b_base",
+    "language": "zh-en",
+    "model_id": "Skywork/Skywork-13B-base",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "teuken",
+    "key": "teuken7b_inst",
+    "language": "eu-multi",
+    "model_id": "openGPT-X/Teuken-7B-instruct-research-v0.4",
+    "revision": "main",
+    "stage": "instruct",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "trillion",
+    "key": "trillion7b",
+    "language": "ko-en",
+    "model_id": "trillionlabs/Trillion-7B-preview",
+    "revision": "main",
+    "stage": "instruct"
+  },
+  {
+    "download_status": "complete",
+    "family": "viking",
+    "key": "viking7b",
+    "language": "nordic",
+    "model_id": "LumiOpen/Viking-7B",
+    "revision": "main",
+    "stage": "base"
+  },
+  {
+    "download_status": "complete",
+    "family": "xlstm",
+    "key": "xlstm7b",
+    "language": "en",
+    "model_id": "NX-AI/xLSTM-7b",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  },
+  {
+    "download_status": "complete",
+    "family": "yuan",
+    "key": "yuan2_2b",
+    "language": "zh-en",
+    "model_id": "IEITYuan/Yuan2-2B-hf",
+    "revision": "main",
+    "stage": "base",
+    "trust_remote_code": true
+  }
+]

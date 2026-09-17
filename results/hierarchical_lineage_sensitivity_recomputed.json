@@ -1,0 +1,4585 @@
+{
+  "aggregation_levels": {
+    "checkpoint": {
+      "ci95": [
+        0.019187261200952363,
+        0.05437751520808137
+      ],
+      "exact": false,
+      "group_members": {
+        "afm45b_base": [
+          "afm45b_base"
+        ],
+        "afm45b_inst": [
+          "afm45b_inst"
+        ],
+        "aixcoder7b_base": [
+          "aixcoder7b_base"
+        ],
+        "allam7b_inst": [
+          "allam7b_inst"
+        ],
+        "amber7b": [
+          "amber7b"
+        ],
+        "amberchat7b": [
+          "amberchat7b"
+        ],
+        "biomedlm27b": [
+          "biomedlm27b"
+        ],
+        "calm2_7b": [
+          "calm2_7b"
+        ],
+        "calm2_7b_chat": [
+          "calm2_7b_chat"
+        ],
+        "codeshell7b": [
+          "codeshell7b"
+        ],
+        "codeshell7b_chat": [
+          "codeshell7b_chat"
+        ],
+        "comma7b_2t": [
+          "comma7b_2t"
+        ],
+        "crystalcoder7b": [
+          "crystalcoder7b"
+        ],
+        "ctllm2b_base": [
+          "ctllm2b_base"
+        ],
+        "danube3_4b_base": [
+          "danube3_4b_base"
+        ],
+        "danube3_4b_chat": [
+          "danube3_4b_chat"
+        ],
+        "danube3_500m_base": [
+          "danube3_500m_base"
+        ],
+        "eurollm17b": [
+          "eurollm17b"
+        ],
+        "fox16b_base": [
+          "fox16b_base"
+        ],
+        "fox16b_inst": [
+          "fox16b_inst"
+        ],
+        "galactica67b": [
+          "galactica67b"
+        ],
+        "hunyuan05b_base": [
+          "hunyuan05b_base"
+        ],
+        "hunyuan18b_inst": [
+          "hunyuan18b_inst"
+        ],
+        "hunyuan7b_inst": [
+          "hunyuan7b_inst"
+        ],
+        "hyperclovax05b_inst": [
+          "hyperclovax05b_inst"
+        ],
+        "index19b_base": [
+          "index19b_base"
+        ],
+        "index19b_chat": [
+          "index19b_chat"
+        ],
+        "instella3b_base": [
+          "instella3b_base"
+        ],
+        "instella3b_inst": [
+          "instella3b_inst"
+        ],
+        "kanana21b_base": [
+          "kanana21b_base"
+        ],
+        "kanana21b_inst": [
+          "kanana21b_inst"
+        ],
+        "ling_lite": [
+          "ling_lite"
+        ],
+        "llmjp3_18b": [
+          "llmjp3_18b"
+        ],
+        "llmjp3_37b": [
+          "llmjp3_37b"
+        ],
+        "llmjp3_37b_inst": [
+          "llmjp3_37b_inst"
+        ],
+        "mapneo7b_base": [
+          "mapneo7b_base"
+        ],
+        "mapneo7b_inst": [
+          "mapneo7b_inst"
+        ],
+        "megrez3b_inst": [
+          "megrez3b_inst"
+        ],
+        "mgpt13b_large": [
+          "mgpt13b_large"
+        ],
+        "mgpt13b_multi": [
+          "mgpt13b_multi"
+        ],
+        "mimo7b_base": [
+          "mimo7b_base"
+        ],
+        "mimo7b_sft": [
+          "mimo7b_sft"
+        ],
+        "minerva7b_base": [
+          "minerva7b_base"
+        ],
+        "minerva7b_inst": [
+          "minerva7b_inst"
+        ],
+        "moonlight16b_a3b": [
+          "moonlight16b_a3b"
+        ],
+        "motif26b": [
+          "motif26b"
+        ],
+        "opencoder15b_base": [
+          "opencoder15b_base"
+        ],
+        "opencoder8b_base": [
+          "opencoder8b_base"
+        ],
+        "opencoder8b_inst": [
+          "opencoder8b_inst"
+        ],
+        "orion14b_chat": [
+          "orion14b_chat"
+        ],
+        "palmyra_base": [
+          "palmyra_base"
+        ],
+        "palmyra_small": [
+          "palmyra_small"
+        ],
+        "pleias12b": [
+          "pleias12b"
+        ],
+        "pleias350m": [
+          "pleias350m"
+        ],
+        "pleias3b": [
+          "pleias3b"
+        ],
+        "polylm17b": [
+          "polylm17b"
+        ],
+        "powerlm3b": [
+          "powerlm3b"
+        ],
+        "powermoe3b": [
+          "powermoe3b"
+        ],
+        "salamandra2b": [
+          "salamandra2b"
+        ],
+        "salamandra7b": [
+          "salamandra7b"
+        ],
+        "salamandra7b_inst": [
+          "salamandra7b_inst"
+        ],
+        "sarashina2_7b": [
+          "sarashina2_7b"
+        ],
+        "sarvam1_2b": [
+          "sarvam1_2b"
+        ],
+        "seedcoder8b_base": [
+          "seedcoder8b_base"
+        ],
+        "seedcoder8b_inst": [
+          "seedcoder8b_inst"
+        ],
+        "skywork13b_base": [
+          "skywork13b_base"
+        ],
+        "teuken7b_inst": [
+          "teuken7b_inst"
+        ],
+        "trillion7b": [
+          "trillion7b"
+        ],
+        "viking7b": [
+          "viking7b"
+        ],
+        "yuan2_2b": [
+          "yuan2_2b"
+        ]
+      },
+      "group_size_max": 1,
+      "group_size_median": 1.0,
+      "group_size_min": 1,
+      "groups": 70,
+      "holm_p_across_sensitivity_levels": 0.00035999964000036,
+      "mean": 0.03661742119962149,
+      "per_group": {
+        "afm45b_base": 0.04924504838310273,
+        "afm45b_inst": 0.09917703141846812,
+        "aixcoder7b_base": 0.04648622292437843,
+        "allam7b_inst": 0.2767038381042386,
+        "amber7b": -0.020658624022755645,
+        "amberchat7b": -0.001073737886606585,
+        "biomedlm27b": 0.043813143812105104,
+        "calm2_7b": -0.008137720584647012,
+        "calm2_7b_chat": -0.001695108135535861,
+        "codeshell7b": 0.06833944278404391,
+        "codeshell7b_chat": 0.015969264657828885,
+        "comma7b_2t": 0.0016300713771555397,
+        "crystalcoder7b": -0.08193307612015399,
+        "ctllm2b_base": 0.16563660041021866,
+        "danube3_4b_base": -0.15492660364730004,
+        "danube3_4b_chat": 0.009442689354081213,
+        "danube3_500m_base": -0.048361588004540934,
+        "eurollm17b": 0.01554215245775803,
+        "fox16b_base": 0.020866936531971803,
+        "fox16b_inst": 0.04073046506062361,
+        "galactica67b": -0.004202829916909123,
+        "hunyuan05b_base": -0.012202120937782834,
+        "hunyuan18b_inst": 0.16812539283749062,
+        "hunyuan7b_inst": 0.1777557231300212,
+        "hyperclovax05b_inst": 0.18129876236261955,
+        "index19b_base": 0.10425097325452992,
+        "index19b_chat": 0.044655066666795196,
+        "instella3b_base": 0.010364398480619652,
+        "instella3b_inst": 0.21471984253800802,
+        "kanana21b_base": 0.10596612235794534,
+        "kanana21b_inst": 0.14320502462640872,
+        "ling_lite": -0.014317893911115154,
+        "llmjp3_18b": -0.04196671799699214,
+        "llmjp3_37b": -0.06976175462702894,
+        "llmjp3_37b_inst": -0.04751659074456527,
+        "mapneo7b_base": 0.08807254039870938,
+        "mapneo7b_inst": 0.09369645913206437,
+        "megrez3b_inst": -0.010641015414084132,
+        "mgpt13b_large": 0.016292239010964993,
+        "mgpt13b_multi": 0.0321173180385248,
+        "mimo7b_base": 0.016151776753770886,
+        "mimo7b_sft": -0.09828158527744613,
+        "minerva7b_base": 0.0887836178899043,
+        "minerva7b_inst": 0.12630486434863097,
+        "moonlight16b_a3b": 0.11560030515465725,
+        "motif26b": 0.03619218923447809,
+        "opencoder15b_base": 0.016067157115578157,
+        "opencoder8b_base": -0.005905162466675162,
+        "opencoder8b_inst": 0.06679260363140471,
+        "orion14b_chat": 0.03720067894075385,
+        "palmyra_base": 0.010555488801966884,
+        "palmyra_small": -0.003344261713857488,
+        "pleias12b": 0.04513595787889135,
+        "pleias350m": 0.0343525718965878,
+        "pleias3b": 0.04084057594461066,
+        "polylm17b": 0.01361749920262878,
+        "powerlm3b": 0.08591369972952945,
+        "powermoe3b": -0.04593580900481564,
+        "salamandra2b": -0.03128850789775062,
+        "salamandra7b": -0.10855375932890776,
+        "salamandra7b_inst": 0.06150126089073782,
+        "sarashina2_7b": -0.00591618349659262,
+        "sarvam1_2b": 0.08879355895265006,
+        "seedcoder8b_base": -0.00023886170871456613,
+        "seedcoder8b_inst": 0.017068156130065626,
+        "skywork13b_base": -0.04328088975321387,
+        "teuken7b_inst": 0.04703084105399691,
+        "trillion7b": 0.09532911697285973,
+        "viking7b": 0.09253477098648111,
+        "yuan2_2b": 0.05349042495063461
+      },
+      "permutations": 1000000,
+      "positive_fraction": 0.6714285714285714,
+      "positive_groups": 47,
+      "registered_style_pass": true,
+      "two_sided_p": 0.000108999891000109
+    },
+    "declared_lineage": {
+      "ci95": [
+        0.022826259029128854,
+        0.06413069184975652
+      ],
+      "exact": false,
+      "group_members": {
+        "afm": [
+          "afm45b_base",
+          "afm45b_inst"
+        ],
+        "aixcoder": [
+          "aixcoder7b_base"
+        ],
+        "allam": [
+          "allam7b_inst"
+        ],
+        "amber": [
+          "amber7b",
+          "amberchat7b"
+        ],
+        "biomedlm": [
+          "biomedlm27b"
+        ],
+        "calm": [
+          "calm2_7b",
+          "calm2_7b_chat"
+        ],
+        "codeshell": [
+          "codeshell7b",
+          "codeshell7b_chat"
+        ],
+        "comma": [
+          "comma7b_2t"
+        ],
+        "crystal": [
+          "crystalcoder7b"
+        ],
+        "ctllm": [
+          "ctllm2b_base"
+        ],
+        "danube": [
+          "danube3_4b_base",
+          "danube3_4b_chat",
+          "danube3_500m_base"
+        ],
+        "eurollm": [
+          "eurollm17b"
+        ],
+        "fox": [
+          "fox16b_base",
+          "fox16b_inst"
+        ],
+        "galactica": [
+          "galactica67b"
+        ],
+        "hunyuan": [
+          "hunyuan05b_base",
+          "hunyuan18b_inst",
+          "hunyuan7b_inst"
+        ],
+        "hyperclovax": [
+          "hyperclovax05b_inst"
+        ],
+        "index": [
+          "index19b_base",
+          "index19b_chat"
+        ],
+        "instella": [
+          "instella3b_base",
+          "instella3b_inst"
+        ],
+        "kanana": [
+          "kanana21b_base",
+          "kanana21b_inst"
+        ],
+        "ling": [
+          "ling_lite"
+        ],
+        "llmjp": [
+          "llmjp3_18b",
+          "llmjp3_37b",
+          "llmjp3_37b_inst"
+        ],
+        "mapneo": [
+          "mapneo7b_base",
+          "mapneo7b_inst"
+        ],
+        "megrez": [
+          "megrez3b_inst"
+        ],
+        "mgpt": [
+          "mgpt13b_large",
+          "mgpt13b_multi"
+        ],
+        "mimo": [
+          "mimo7b_base",
+          "mimo7b_sft"
+        ],
+        "minerva": [
+          "minerva7b_base",
+          "minerva7b_inst"
+        ],
+        "moonlight": [
+          "moonlight16b_a3b"
+        ],
+        "motif": [
+          "motif26b"
+        ],
+        "opencoder": [
+          "opencoder15b_base",
+          "opencoder8b_base",
+          "opencoder8b_inst"
+        ],
+        "orion": [
+          "orion14b_chat"
+        ],
+        "palmyra": [
+          "palmyra_base",
+          "palmyra_small"
+        ],
+        "pleias": [
+          "pleias12b",
+          "pleias350m",
+          "pleias3b"
+        ],
+        "polylm": [
+          "polylm17b"
+        ],
+        "powerlm": [
+          "powerlm3b",
+          "powermoe3b"
+        ],
+        "salamandra": [
+          "salamandra2b",
+          "salamandra7b",
+          "salamandra7b_inst"
+        ],
+        "sarashina": [
+          "sarashina2_7b"
+        ],
+        "sarvam": [
+          "sarvam1_2b"
+        ],
+        "seed_coder": [
+          "seedcoder8b_base",
+          "seedcoder8b_inst"
+        ],
+        "skywork": [
+          "skywork13b_base"
+        ],
+        "teuken": [
+          "teuken7b_inst"
+        ],
+        "trillion": [
+          "trillion7b"
+        ],
+        "viking": [
+          "viking7b"
+        ],
+        "yuan": [
+          "yuan2_2b"
+        ]
+      },
+      "group_size_max": 3,
+      "group_size_median": 1.0,
+      "group_size_min": 1,
+      "groups": 43,
+      "holm_p_across_sensitivity_levels": 0.00035999964000036,
+      "mean": 0.04279826430135383,
+      "per_group": {
+        "afm": 0.07421103990078542,
+        "aixcoder": 0.04648622292437843,
+        "allam": 0.2767038381042386,
+        "amber": -0.010866180954681115,
+        "biomedlm": 0.043813143812105104,
+        "calm": -0.004916414360091437,
+        "codeshell": 0.0421543537209364,
+        "comma": 0.0016300713771555397,
+        "crystal": -0.08193307612015399,
+        "ctllm": 0.16563660041021866,
+        "danube": -0.06461516743258659,
+        "eurollm": 0.01554215245775803,
+        "fox": 0.030798700796297707,
+        "galactica": -0.004202829916909123,
+        "hunyuan": 0.11122633167657632,
+        "hyperclovax": 0.18129876236261955,
+        "index": 0.07445301996066256,
+        "instella": 0.11254212050931384,
+        "kanana": 0.12458557349217703,
+        "ling": -0.014317893911115154,
+        "llmjp": -0.053081687789528785,
+        "mapneo": 0.09088449976538687,
+        "megrez": -0.010641015414084132,
+        "mgpt": 0.024204778524744897,
+        "mimo": -0.04106490426183762,
+        "minerva": 0.10754424111926764,
+        "moonlight": 0.11560030515465725,
+        "motif": 0.03619218923447809,
+        "opencoder": 0.02565153276010257,
+        "orion": 0.03720067894075385,
+        "palmyra": 0.0036056135440546977,
+        "pleias": 0.040109701906696604,
+        "polylm": 0.01361749920262878,
+        "powerlm": 0.019988945362356902,
+        "salamandra": -0.026113668778640187,
+        "sarashina": -0.00591618349659262,
+        "sarvam": 0.08879355895265006,
+        "seed_coder": 0.00841464721067553,
+        "skywork": -0.04328088975321387,
+        "teuken": 0.04703084105399691,
+        "trillion": 0.09532911697285973,
+        "viking": 0.09253477098648111,
+        "yuan": 0.05349042495063461
+      },
+      "permutations": 1000000,
+      "positive_fraction": 0.7209302325581395,
+      "positive_groups": 31,
+      "registered_style_pass": true,
+      "two_sided_p": 0.000113999886000114
+    },
+    "implementation_architecture": {
+      "ci95": [
+        0.009842131172180447,
+        0.06056672359879563
+      ],
+      "exact": true,
+      "group_members": {
+        "arcee": [
+          "afm45b_base",
+          "afm45b_inst"
+        ],
+        "bailing_moe": [
+          "ling_lite"
+        ],
+        "codeshell": [
+          "codeshell7b_chat"
+        ],
+        "crystalcoder": [
+          "crystalcoder7b"
+        ],
+        "deepseek_v3": [
+          "moonlight16b_a3b"
+        ],
+        "gpt2": [
+          "biomedlm27b",
+          "mgpt13b_large",
+          "mgpt13b_multi",
+          "palmyra_base",
+          "palmyra_small",
+          "polylm17b"
+        ],
+        "granite": [
+          "powerlm3b"
+        ],
+        "granitemoe": [
+          "powermoe3b"
+        ],
+        "hunyuan_v1_dense": [
+          "hunyuan05b_base",
+          "hunyuan18b_inst",
+          "hunyuan7b_inst"
+        ],
+        "index": [
+          "index19b_base",
+          "index19b_chat"
+        ],
+        "instella": [
+          "instella3b_base",
+          "instella3b_inst"
+        ],
+        "kclgpt": [
+          "codeshell7b"
+        ],
+        "llama": [
+          "aixcoder7b_base",
+          "allam7b_inst",
+          "amber7b",
+          "amberchat7b",
+          "calm2_7b",
+          "calm2_7b_chat",
+          "comma7b_2t",
+          "ctllm2b_base",
+          "danube3_4b_base",
+          "danube3_4b_chat",
+          "danube3_500m_base",
+          "eurollm17b",
+          "fox16b_base",
+          "fox16b_inst",
+          "hyperclovax05b_inst",
+          "kanana21b_base",
+          "kanana21b_inst",
+          "llmjp3_18b",
+          "llmjp3_37b",
+          "llmjp3_37b_inst",
+          "mapneo7b_base",
+          "mapneo7b_inst",
+          "megrez3b_inst",
+          "opencoder15b_base",
+          "opencoder8b_base",
+          "opencoder8b_inst",
+          "pleias12b",
+          "pleias350m",
+          "pleias3b",
+          "salamandra2b",
+          "salamandra7b",
+          "salamandra7b_inst",
+          "sarashina2_7b",
+          "sarvam1_2b",
+          "seedcoder8b_base",
+          "seedcoder8b_inst",
+          "teuken7b_inst",
+          "trillion7b",
+          "viking7b"
+        ],
+        "mimo": [
+          "mimo7b_base",
+          "mimo7b_sft"
+        ],
+        "mistral": [
+          "minerva7b_base",
+          "minerva7b_inst"
+        ],
+        "motif": [
+          "motif26b"
+        ],
+        "opt": [
+          "galactica67b"
+        ],
+        "orion": [
+          "orion14b_chat"
+        ],
+        "skywork": [
+          "skywork13b_base"
+        ],
+        "yuan": [
+          "yuan2_2b"
+        ]
+      },
+      "group_size_max": 39,
+      "group_size_median": 1.0,
+      "group_size_min": 1,
+      "groups": 20,
+      "holm_p_across_sensitivity_levels": 0.016633987426757812,
+      "mean": 0.035626748291600605,
+      "per_group": {
+        "arcee": 0.07421103990078542,
+        "bailing_moe": -0.014317893911115154,
+        "codeshell": 0.015969264657828885,
+        "crystalcoder": -0.08193307612015399,
+        "deepseek_v3": 0.11560030515465725,
+        "gpt2": 0.018841904525388847,
+        "granite": 0.08591369972952945,
+        "granitemoe": -0.04593580900481564,
+        "hunyuan_v1_dense": 0.11122633167657632,
+        "index": 0.07445301996066256,
+        "instella": 0.11254212050931384,
+        "kclgpt": 0.06833944278404391,
+        "llama": 0.03174570565613692,
+        "mimo": -0.04106490426183762,
+        "mistral": 0.10754424111926764,
+        "motif": 0.03619218923447809,
+        "opt": -0.004202829916909123,
+        "orion": 0.03720067894075385,
+        "skywork": -0.04328088975321387,
+        "yuan": 0.05349042495063461
+      },
+      "permutations": 1048576,
+      "positive_fraction": 0.7,
+      "positive_groups": 14,
+      "registered_style_pass": true,
+      "two_sided_p": 0.016633987426757812
+    },
+    "publisher_namespace": {
+      "ci95": [
+        0.02347042165267451,
+        0.0641637386891102
+      ],
+      "exact": false,
+      "group_members": {
+        "ai-forever": [
+          "mgpt13b_large",
+          "mgpt13b_multi"
+        ],
+        "aixcoder": [
+          "aixcoder7b_base"
+        ],
+        "allam-ai": [
+          "allam7b_inst"
+        ],
+        "amd": [
+          "instella3b_base",
+          "instella3b_inst"
+        ],
+        "arcee-ai": [
+          "afm45b_base",
+          "afm45b_inst"
+        ],
+        "bsc-lt": [
+          "salamandra2b",
+          "salamandra7b",
+          "salamandra7b_inst"
+        ],
+        "bytedance-seed": [
+          "seedcoder8b_base",
+          "seedcoder8b_inst"
+        ],
+        "common-pile": [
+          "comma7b_2t"
+        ],
+        "cyberagent": [
+          "calm2_7b",
+          "calm2_7b_chat"
+        ],
+        "damo-nlp-mt": [
+          "polylm17b"
+        ],
+        "facebook": [
+          "galactica67b"
+        ],
+        "h2oai": [
+          "danube3_4b_base",
+          "danube3_4b_chat",
+          "danube3_500m_base"
+        ],
+        "ibm": [
+          "powerlm3b",
+          "powermoe3b"
+        ],
+        "ieityuan": [
+          "yuan2_2b"
+        ],
+        "inclusionai": [
+          "ling_lite"
+        ],
+        "indexteam": [
+          "index19b_base",
+          "index19b_chat"
+        ],
+        "infinigence": [
+          "megrez3b_inst"
+        ],
+        "infly": [
+          "opencoder15b_base",
+          "opencoder8b_base",
+          "opencoder8b_inst"
+        ],
+        "kakaocorp": [
+          "kanana21b_base",
+          "kanana21b_inst"
+        ],
+        "llm-jp": [
+          "llmjp3_18b",
+          "llmjp3_37b",
+          "llmjp3_37b_inst"
+        ],
+        "llm360": [
+          "amber7b",
+          "amberchat7b",
+          "crystalcoder7b"
+        ],
+        "lumiopen": [
+          "viking7b"
+        ],
+        "m-a-p": [
+          "ctllm2b_base",
+          "mapneo7b_base",
+          "mapneo7b_inst"
+        ],
+        "moonshotai": [
+          "moonlight16b_a3b"
+        ],
+        "motif-technologies": [
+          "motif26b"
+        ],
+        "naver-hyperclovax": [
+          "hyperclovax05b_inst"
+        ],
+        "opengpt-x": [
+          "teuken7b_inst"
+        ],
+        "orionstarai": [
+          "orion14b_chat"
+        ],
+        "pleias": [
+          "pleias12b",
+          "pleias350m",
+          "pleias3b"
+        ],
+        "sapienzanlp": [
+          "minerva7b_base",
+          "minerva7b_inst"
+        ],
+        "sarvamai": [
+          "sarvam1_2b"
+        ],
+        "sbintuitions": [
+          "sarashina2_7b"
+        ],
+        "skywork": [
+          "skywork13b_base"
+        ],
+        "stanford-crfm": [
+          "biomedlm27b"
+        ],
+        "tencent": [
+          "hunyuan05b_base",
+          "hunyuan18b_inst",
+          "hunyuan7b_inst"
+        ],
+        "tensoropera": [
+          "fox16b_base",
+          "fox16b_inst"
+        ],
+        "trillionlabs": [
+          "trillion7b"
+        ],
+        "utter-project": [
+          "eurollm17b"
+        ],
+        "wisdomshell": [
+          "codeshell7b",
+          "codeshell7b_chat"
+        ],
+        "writer": [
+          "palmyra_base",
+          "palmyra_small"
+        ],
+        "xiaomimimo": [
+          "mimo7b_base",
+          "mimo7b_sft"
+        ]
+      },
+      "group_size_max": 3,
+      "group_size_median": 2.0,
+      "group_size_min": 1,
+      "groups": 41,
+      "holm_p_across_sensitivity_levels": 0.00035999964000036,
+      "mean": 0.04287439615840495,
+      "per_group": {
+        "ai-forever": 0.024204778524744897,
+        "aixcoder": 0.04648622292437843,
+        "allam-ai": 0.2767038381042386,
+        "amd": 0.11254212050931384,
+        "arcee-ai": 0.07421103990078542,
+        "bsc-lt": -0.026113668778640187,
+        "bytedance-seed": 0.00841464721067553,
+        "common-pile": 0.0016300713771555397,
+        "cyberagent": -0.004916414360091437,
+        "damo-nlp-mt": 0.01361749920262878,
+        "facebook": -0.004202829916909123,
+        "h2oai": -0.06461516743258659,
+        "ibm": 0.019988945362356902,
+        "ieityuan": 0.05349042495063461,
+        "inclusionai": -0.014317893911115154,
+        "indexteam": 0.07445301996066256,
+        "infinigence": -0.010641015414084132,
+        "infly": 0.02565153276010257,
+        "kakaocorp": 0.12458557349217703,
+        "llm-jp": -0.053081687789528785,
+        "llm360": -0.03455514600983874,
+        "lumiopen": 0.09253477098648111,
+        "m-a-p": 0.11580186664699747,
+        "moonshotai": 0.11560030515465725,
+        "motif-technologies": 0.03619218923447809,
+        "naver-hyperclovax": 0.18129876236261955,
+        "opengpt-x": 0.04703084105399691,
+        "orionstarai": 0.03720067894075385,
+        "pleias": 0.040109701906696604,
+        "sapienzanlp": 0.10754424111926764,
+        "sarvamai": 0.08879355895265006,
+        "sbintuitions": -0.00591618349659262,
+        "skywork": -0.04328088975321387,
+        "stanford-crfm": 0.043813143812105104,
+        "tencent": 0.11122633167657632,
+        "tensoropera": 0.030798700796297707,
+        "trillionlabs": 0.09532911697285973,
+        "utter-project": 0.01554215245775803,
+        "wisdomshell": 0.0421543537209364,
+        "writer": 0.0036056135440546977,
+        "xiaomimimo": -0.04106490426183762
+      },
+      "permutations": 1000000,
+      "positive_fraction": 0.7317073170731707,
+      "positive_groups": 30,
+      "registered_style_pass": true,
+      "two_sided_p": 8.999991000009e-05
+    }
+  },
+  "analysis": "P0y hierarchical-lineage sensitivity",
+  "contrast": "SoftMap minus soft-JS NDCG@5",
+  "estimand_preserving_cluster_definitions": {
+    "implementation_architecture": {
+      "components": {
+        "component_00::arcee": {
+          "coarse_labels": [
+            "arcee"
+          ],
+          "declared_lineages": [
+            "afm"
+          ]
+        },
+        "component_01::llama": {
+          "coarse_labels": [
+            "llama"
+          ],
+          "declared_lineages": [
+            "aixcoder",
+            "allam",
+            "amber",
+            "calm",
+            "comma",
+            "ctllm",
+            "danube",
+            "eurollm",
+            "fox",
+            "hyperclovax",
+            "kanana",
+            "llmjp",
+            "mapneo",
+            "megrez",
+            "opencoder",
+            "pleias",
+            "salamandra",
+            "sarashina",
+            "sarvam",
+            "seed_coder",
+            "teuken",
+            "trillion",
+            "viking"
+          ]
+        },
+        "component_02::gpt2": {
+          "coarse_labels": [
+            "gpt2"
+          ],
+          "declared_lineages": [
+            "biomedlm",
+            "mgpt",
+            "palmyra",
+            "polylm"
+          ]
+        },
+        "component_03::codeshell+kclgpt": {
+          "coarse_labels": [
+            "codeshell",
+            "kclgpt"
+          ],
+          "declared_lineages": [
+            "codeshell"
+          ]
+        },
+        "component_04::crystalcoder": {
+          "coarse_labels": [
+            "crystalcoder"
+          ],
+          "declared_lineages": [
+            "crystal"
+          ]
+        },
+        "component_05::opt": {
+          "coarse_labels": [
+            "opt"
+          ],
+          "declared_lineages": [
+            "galactica"
+          ]
+        },
+        "component_06::hunyuan_v1_dense": {
+          "coarse_labels": [
+            "hunyuan_v1_dense"
+          ],
+          "declared_lineages": [
+            "hunyuan"
+          ]
+        },
+        "component_07::index": {
+          "coarse_labels": [
+            "index"
+          ],
+          "declared_lineages": [
+            "index"
+          ]
+        },
+        "component_08::instella": {
+          "coarse_labels": [
+            "instella"
+          ],
+          "declared_lineages": [
+            "instella"
+          ]
+        },
+        "component_09::bailing_moe": {
+          "coarse_labels": [
+            "bailing_moe"
+          ],
+          "declared_lineages": [
+            "ling"
+          ]
+        },
+        "component_10::mimo": {
+          "coarse_labels": [
+            "mimo"
+          ],
+          "declared_lineages": [
+            "mimo"
+          ]
+        },
+        "component_11::mistral": {
+          "coarse_labels": [
+            "mistral"
+          ],
+          "declared_lineages": [
+            "minerva"
+          ]
+        },
+        "component_12::deepseek_v3": {
+          "coarse_labels": [
+            "deepseek_v3"
+          ],
+          "declared_lineages": [
+            "moonlight"
+          ]
+        },
+        "component_13::motif": {
+          "coarse_labels": [
+            "motif"
+          ],
+          "declared_lineages": [
+            "motif"
+          ]
+        },
+        "component_14::orion": {
+          "coarse_labels": [
+            "orion"
+          ],
+          "declared_lineages": [
+            "orion"
+          ]
+        },
+        "component_15::granite+granitemoe": {
+          "coarse_labels": [
+            "granite",
+            "granitemoe"
+          ],
+          "declared_lineages": [
+            "powerlm"
+          ]
+        },
+        "component_16::skywork": {
+          "coarse_labels": [
+            "skywork"
+          ],
+          "declared_lineages": [
+            "skywork"
+          ]
+        },
+        "component_17::yuan": {
+          "coarse_labels": [
+            "yuan"
+          ],
+          "declared_lineages": [
+            "yuan"
+          ]
+        }
+      },
+      "rule": "connected components of declared-lineage--model_type bipartite graph"
+    },
+    "publisher_namespace": {
+      "lineage_to_cluster": {
+        "afm": "arcee-ai",
+        "aixcoder": "aixcoder",
+        "allam": "allam-ai",
+        "amber": "llm360",
+        "biomedlm": "stanford-crfm",
+        "calm": "cyberagent",
+        "codeshell": "wisdomshell",
+        "comma": "common-pile",
+        "crystal": "llm360",
+        "ctllm": "m-a-p",
+        "danube": "h2oai",
+        "eurollm": "utter-project",
+        "fox": "tensoropera",
+        "galactica": "facebook",
+        "hunyuan": "tencent",
+        "hyperclovax": "naver-hyperclovax",
+        "index": "indexteam",
+        "instella": "amd",
+        "kanana": "kakaocorp",
+        "ling": "inclusionai",
+        "llmjp": "llm-jp",
+        "mapneo": "m-a-p",
+        "megrez": "infinigence",
+        "mgpt": "ai-forever",
+        "mimo": "xiaomimimo",
+        "minerva": "sapienzanlp",
+        "moonlight": "moonshotai",
+        "motif": "motif-technologies",
+        "opencoder": "infly",
+        "orion": "orionstarai",
+        "palmyra": "writer",
+        "pleias": "pleias",
+        "polylm": "damo-nlp-mt",
+        "powerlm": "ibm",
+        "salamandra": "bsc-lt",
+        "sarashina": "sbintuitions",
+        "sarvam": "sarvamai",
+        "seed_coder": "bytedance-seed",
+        "skywork": "skywork",
+        "teuken": "opengpt-x",
+        "trillion": "trillionlabs",
+        "viking": "lumiopen",
+        "yuan": "ieityuan"
+      },
+      "rule": "strictly nested frozen namespace"
+    }
+  },
+  "estimand_preserving_cluster_inference": {
+    "implementation_architecture": {
+      "cluster_bootstrap_ci95": [
+        0.016935594456610907,
+        0.055388455956772685
+      ],
+      "cluster_lineage_counts": {
+        "component_00::arcee": 1,
+        "component_01::llama": 23,
+        "component_02::gpt2": 4,
+        "component_03::codeshell+kclgpt": 1,
+        "component_04::crystalcoder": 1,
+        "component_05::opt": 1,
+        "component_06::hunyuan_v1_dense": 1,
+        "component_07::index": 1,
+        "component_08::instella": 1,
+        "component_09::bailing_moe": 1,
+        "component_10::mimo": 1,
+        "component_11::mistral": 1,
+        "component_12::deepseek_v3": 1,
+        "component_13::motif": 1,
+        "component_14::orion": 1,
+        "component_15::granite+granitemoe": 1,
+        "component_16::skywork": 1,
+        "component_17::yuan": 1
+      },
+      "cluster_sign_flip_p": 0.00835418701171875,
+      "clusters": 18,
+      "declared_lineages": 43,
+      "exact": true,
+      "mean_equal_declared_lineage": 0.04279826430135384,
+      "per_cluster_sum_of_lineage_effects": {
+        "component_00::arcee": 0.07421103990078542,
+        "component_01::llama": 1.155280273307488,
+        "component_02::gpt2": 0.08524103508353348,
+        "component_03::codeshell+kclgpt": 0.0421543537209364,
+        "component_04::crystalcoder": -0.08193307612015399,
+        "component_05::opt": -0.004202829916909123,
+        "component_06::hunyuan_v1_dense": 0.11122633167657632,
+        "component_07::index": 0.07445301996066256,
+        "component_08::instella": 0.11254212050931384,
+        "component_09::bailing_moe": -0.014317893911115154,
+        "component_10::mimo": -0.04106490426183762,
+        "component_11::mistral": 0.10754424111926764,
+        "component_12::deepseek_v3": 0.11560030515465725,
+        "component_13::motif": 0.03619218923447809,
+        "component_14::orion": 0.03720067894075385,
+        "component_15::granite+granitemoe": 0.019988945362356902,
+        "component_16::skywork": -0.04328088975321387,
+        "component_17::yuan": 0.05349042495063461
+      },
+      "permutations": 262144
+    },
+    "publisher_namespace": {
+      "cluster_bootstrap_ci95": [
+        0.02161378707740099,
+        0.06521698097075436
+      ],
+      "cluster_lineage_counts": {
+        "ai-forever": 1,
+        "aixcoder": 1,
+        "allam-ai": 1,
+        "amd": 1,
+        "arcee-ai": 1,
+        "bsc-lt": 1,
+        "bytedance-seed": 1,
+        "common-pile": 1,
+        "cyberagent": 1,
+        "damo-nlp-mt": 1,
+        "facebook": 1,
+        "h2oai": 1,
+        "ibm": 1,
+        "ieityuan": 1,
+        "inclusionai": 1,
+        "indexteam": 1,
+        "infinigence": 1,
+        "infly": 1,
+        "kakaocorp": 1,
+        "llm-jp": 1,
+        "llm360": 2,
+        "lumiopen": 1,
+        "m-a-p": 2,
+        "moonshotai": 1,
+        "motif-technologies": 1,
+        "naver-hyperclovax": 1,
+        "opengpt-x": 1,
+        "orionstarai": 1,
+        "pleias": 1,
+        "sapienzanlp": 1,
+        "sarvamai": 1,
+        "sbintuitions": 1,
+        "skywork": 1,
+        "stanford-crfm": 1,
+        "tencent": 1,
+        "tensoropera": 1,
+        "trillionlabs": 1,
+        "utter-project": 1,
+        "wisdomshell": 1,
+        "writer": 1,
+        "xiaomimimo": 1
+      },
+      "cluster_sign_flip_p": 0.00017999982000018,
+      "clusters": 41,
+      "declared_lineages": 43,
+      "exact": false,
+      "mean_equal_declared_lineage": 0.04279826430135383,
+      "per_cluster_sum_of_lineage_effects": {
+        "ai-forever": 0.024204778524744897,
+        "aixcoder": 0.04648622292437843,
+        "allam-ai": 0.2767038381042386,
+        "amd": 0.11254212050931384,
+        "arcee-ai": 0.07421103990078542,
+        "bsc-lt": -0.026113668778640187,
+        "bytedance-seed": 0.00841464721067553,
+        "common-pile": 0.0016300713771555397,
+        "cyberagent": -0.004916414360091437,
+        "damo-nlp-mt": 0.01361749920262878,
+        "facebook": -0.004202829916909123,
+        "h2oai": -0.06461516743258659,
+        "ibm": 0.019988945362356902,
+        "ieityuan": 0.05349042495063461,
+        "inclusionai": -0.014317893911115154,
+        "indexteam": 0.07445301996066256,
+        "infinigence": -0.010641015414084132,
+        "infly": 0.02565153276010257,
+        "kakaocorp": 0.12458557349217703,
+        "llm-jp": -0.053081687789528785,
+        "llm360": -0.0927992570748351,
+        "lumiopen": 0.09253477098648111,
+        "m-a-p": 0.25652110017560553,
+        "moonshotai": 0.11560030515465725,
+        "motif-technologies": 0.03619218923447809,
+        "naver-hyperclovax": 0.18129876236261955,
+        "opengpt-x": 0.04703084105399691,
+        "orionstarai": 0.03720067894075385,
+        "pleias": 0.040109701906696604,
+        "sapienzanlp": 0.10754424111926764,
+        "sarvamai": 0.08879355895265006,
+        "sbintuitions": -0.00591618349659262,
+        "skywork": -0.04328088975321387,
+        "stanford-crfm": 0.043813143812105104,
+        "tencent": 0.11122633167657632,
+        "tensoropera": 0.030798700796297707,
+        "trillionlabs": 0.09532911697285973,
+        "utter-project": 0.01554215245775803,
+        "wisdomshell": 0.0421543537209364,
+        "writer": 0.0036056135440546977,
+        "xiaomimimo": -0.04106490426183762
+      },
+      "permutations": 1000000
+    }
+  },
+  "input_hashes": {
+    "data/manifests/model_metadata.json": "f1bd48a5707119c9dfeb977bbdfedbe99d0b1032286fdcfbf5388a3f65f60e8f",
+    "data/manifests/target_models.json": "a7dd03f8409c001181c25fd28aecd9db42cfb5df8852a2d233d41ea76907b999",
+    "results/p0y_primary.json": "7fa3eaec68aab53fb3e93aeb180126ece7cb28583c33a48754f248b72edef42f"
+  },
+  "interpretation_guardrail": "Publisher namespace and model_type are reproducible coarsenings used for sensitivity analysis; they are not asserted to be canonical ancestry.",
+  "leave_one_declared_lineage_out": {
+    "all_cases": [
+      {
+        "groups": 42,
+        "mean": 0.04205034107279594,
+        "omitted": "afm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04271045576271039,
+        "omitted": "aixcoder",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.03722908397271371,
+        "omitted": "allam",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04407598918840228,
+        "omitted": "amber",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.0427741005034788,
+        "omitted": "biomedlm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04393432807900729,
+        "omitted": "calm",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.042813595505649484,
+        "omitted": "codeshell",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04377845937097761,
+        "omitted": "comma",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04576805812091354,
+        "omitted": "crystal",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.039873542013047526,
+        "omitted": "ctllm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04535572696168574,
+        "omitted": "danube",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.04344721934524897,
+        "omitted": "eurollm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04308396819433136,
+        "omitted": "fox",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04391733797321723,
+        "omitted": "galactica",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.041169024601943764,
+        "omitted": "hunyuan",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.03950063339513322,
+        "omitted": "hyperclovax",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04204457964279886,
+        "omitted": "index",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.0411376962964024,
+        "omitted": "instella",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04085094741585804,
+        "omitted": "kanana",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04415817283022214,
+        "omitted": "ling",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.0450811203035177,
+        "omitted": "llmjp",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.04165335393316256,
+        "omitted": "mapneo",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04407062810410235,
+        "omitted": "megrez",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.043240966343654035,
+        "omitted": "mgpt",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04479500641000124,
+        "omitted": "mimo",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.041256693424736826,
+        "omitted": "minerva",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04106488237627518,
+        "omitted": "moonlight",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.042955551802946114,
+        "omitted": "motif",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.043206519814240764,
+        "omitted": "opencoder",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.042931540143272884,
+        "omitted": "orion",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.0437314226527181,
+        "omitted": "palmyra",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04286227769170282,
+        "omitted": "pleias",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04349304442275205,
+        "omitted": "polylm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.0433413433237109,
+        "omitted": "powerlm",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.044439024612782256,
+        "omitted": "salamandra",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.04395813210606684,
+        "omitted": "sarashina",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.04170313823822774,
+        "omitted": "sarvam",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04361692185113189,
+        "omitted": "seed_coder",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04484776796931973,
+        "omitted": "skywork",
+        "positive_fraction": 0.7380952380952381
+      },
+      {
+        "groups": 42,
+        "mean": 0.042697488664386135,
+        "omitted": "teuken",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04154752971393702,
+        "omitted": "trillion",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.04161406176123176,
+        "omitted": "viking",
+        "positive_fraction": 0.7142857142857143
+      },
+      {
+        "groups": 42,
+        "mean": 0.042543689047799524,
+        "omitted": "yuan",
+        "positive_fraction": 0.7142857142857143
+      }
+    ],
+    "analyses": 43,
+    "mean_range": [
+      0.03722908397271371,
+      0.04576805812091354
+    ],
+    "positive_fraction_range": [
+      0.7142857142857143,
+      0.7380952380952381
+    ],
+    "worst_mean_case": {
+      "groups": 42,
+      "mean": 0.03722908397271371,
+      "omitted": "allam",
+      "positive_fraction": 0.7142857142857143
+    },
+    "worst_mean_full_inference": {
+      "ci95": [
+        0.01926598550198171,
+        0.05536281092585579
+      ],
+      "exact": false,
+      "group_size_max": null,
+      "group_size_median": null,
+      "group_size_min": null,
+      "groups": 42,
+      "mean": 0.03722908397271371,
+      "per_group": {
+        "afm": 0.07421103990078542,
+        "aixcoder": 0.04648622292437843,
+        "amber": -0.010866180954681115,
+        "biomedlm": 0.043813143812105104,
+        "calm": -0.004916414360091437,
+        "codeshell": 0.0421543537209364,
+        "comma": 0.0016300713771555397,
+        "crystal": -0.08193307612015399,
+        "ctllm": 0.16563660041021866,
+        "danube": -0.06461516743258659,
+        "eurollm": 0.01554215245775803,
+        "fox": 0.030798700796297707,
+        "galactica": -0.004202829916909123,
+        "hunyuan": 0.11122633167657632,
+        "hyperclovax": 0.18129876236261955,
+        "index": 0.07445301996066256,
+        "instella": 0.11254212050931384,
+        "kanana": 0.12458557349217703,
+        "ling": -0.014317893911115154,
+        "llmjp": -0.053081687789528785,
+        "mapneo": 0.09088449976538687,
+        "megrez": -0.010641015414084132,
+        "mgpt": 0.024204778524744897,
+        "mimo": -0.04106490426183762,
+        "minerva": 0.10754424111926764,
+        "moonlight": 0.11560030515465725,
+        "motif": 0.03619218923447809,
+        "opencoder": 0.02565153276010257,
+        "orion": 0.03720067894075385,
+        "palmyra": 0.0036056135440546977,
+        "pleias": 0.040109701906696604,
+        "polylm": 0.01361749920262878,
+        "powerlm": 0.019988945362356902,
+        "salamandra": -0.026113668778640187,
+        "sarashina": -0.00591618349659262,
+        "sarvam": 0.08879355895265006,
+        "seed_coder": 0.00841464721067553,
+        "skywork": -0.04328088975321387,
+        "teuken": 0.04703084105399691,
+        "trillion": 0.09532911697285973,
+        "viking": 0.09253477098648111,
+        "yuan": 0.05349042495063461
+      },
+      "permutations": 1000000,
+      "positive_fraction": 0.7142857142857143,
+      "positive_groups": 30,
+      "registered_style_pass": true,
+      "two_sided_p": 0.000198999801000199
+    }
+  },
+  "registered_reproduction": {
+    "groups_equal": true,
+    "mean_abs_error": 1.3877787807814457e-17,
+    "positive_groups_equal": true,
+    "registered_ci95": [
+      0.02287764839233219,
+      0.0639978833703138
+    ],
+    "registered_two_sided_p": 0.000124999875000125
+  },
+  "robustness_conditions": {
+    "all_aggregation_levels_pass": true,
+    "architecture_cluster_p_le_0.05": true,
+    "publisher_cluster_p_le_0.05": true,
+    "registered_reproduced": true,
+    "worst_loo_ci_positive_and_p_le_0.05": true,
+    "worst_merge_ci_positive_and_p_le_0.05": true
+  },
+  "single_admissible_lineage_merge": {
+    "all_cases": [
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.03996976986771205,
+        "merged_effect": 0.1615950305143085,
+        "positive_fraction": 0.7142857142857143,
+        "right": "allam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.043165633571274356,
+        "merged_effect": 0.0082512870050054,
+        "positive_fraction": 0.7380952380952381,
+        "right": "amber",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04311841320147602,
+        "merged_effect": 0.012217798068065186,
+        "positive_fraction": 0.7380952380952381,
+        "right": "calm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.043244457566843995,
+        "merged_effect": 0.024058147150766984,
+        "positive_fraction": 0.7142857142857143,
+        "right": "comma",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04129199888787895,
+        "merged_effect": 0.10606141166729854,
+        "positive_fraction": 0.7142857142857143,
+        "right": "ctllm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.043371773562454224,
+        "merged_effect": -0.036839819843345334,
+        "positive_fraction": 0.7142857142857143,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.043078837553979676,
+        "merged_effect": 0.03101418769106823,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04283495990658405,
+        "merged_effect": 0.03602787483899128,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04110554457892181,
+        "merged_effect": 0.11389249264349899,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.042090619647092944,
+        "merged_effect": 0.09855245663624417,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04330312189791222,
+        "merged_effect": -0.02818971011105198,
+        "positive_fraction": 0.7142857142857143,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04235808848619444,
+        "merged_effect": 0.07608507415171739,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04339054193340637,
+        "merged_effect": 0.01792260375514715,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.042834471775592985,
+        "merged_effect": 0.030860205301171534,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.0427484112449585,
+        "merged_effect": 0.04170383216111706,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04314259797522836,
+        "merged_effect": -0.007963695852885533,
+        "positive_fraction": 0.7142857142857143,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.043334293934388604,
+        "merged_effect": 0.020285019713892904,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04220679700046906,
+        "merged_effect": 0.06763989093851425,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04301261112551755,
+        "merged_effect": 0.021105172448576497,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04270397221354826,
+        "merged_effect": 0.04675853198918767,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.042128992738323705,
+        "merged_effect": 0.07090766994861908,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "aixcoder",
+        "mean": 0.04216225876197107,
+        "merged_effect": 0.06951049695542977,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03951138571127658,
+        "merged_effect": 0.08499049206495879,
+        "positive_fraction": 0.7380952380952381,
+        "right": "amber",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.039464165341478244,
+        "merged_effect": 0.08895700312801857,
+        "positive_fraction": 0.7380952380952381,
+        "right": "calm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.040503771671845656,
+        "merged_effect": 0.13916695474069707,
+        "positive_fraction": 0.7142857142857143,
+        "right": "comma",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03855131299288062,
+        "merged_effect": 0.22117021925722863,
+        "positive_fraction": 0.7142857142857143,
+        "right": "ctllm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03926074471995672,
+        "merged_effect": 0.02071458395161971,
+        "positive_fraction": 0.7380952380952381,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.040338151658981344,
+        "merged_effect": 0.1461229952809983,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.039180712046586255,
+        "merged_effect": 0.11276707989894467,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03836485868392347,
+        "merged_effect": 0.22900130023342907,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03843637178709515,
+        "merged_effect": 0.17529166169619756,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03919209305541472,
+        "merged_effect": 0.029364693683913062,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03870384062619666,
+        "merged_effect": 0.15282427921167077,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.04064985603840804,
+        "merged_effect": 0.13303141134507723,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03872344293309547,
+        "merged_effect": 0.08841460909613658,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.038637382402460986,
+        "merged_effect": 0.0992582359560821,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03903156913273084,
+        "merged_effect": 0.04959070794207951,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.04059360803939027,
+        "merged_effect": 0.135393827303823,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03946611110547073,
+        "merged_effect": 0.18274869852844433,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.039358363265519766,
+        "merged_effect": 0.09784437750852988,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.039963286318549916,
+        "merged_effect": 0.16186733957911775,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03938830684332536,
+        "merged_effect": 0.18601647753854916,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "allam",
+        "mean": 0.03942157286697273,
+        "merged_effect": 0.18461930454535985,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.044005158633704786,
+        "merged_effect": -0.007891297657386276,
+        "positive_fraction": 0.7380952380952381,
+        "right": "calm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043877635976785824,
+        "merged_effect": -0.006700763510735563,
+        "positive_fraction": 0.7142857142857143,
+        "right": "comma",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04520403514340979,
+        "merged_effect": -0.03455514600983874,
+        "positive_fraction": 0.7380952380952381,
+        "right": "crystal",
+        "shared_by": [
+          "publisher_namespace"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.041274357738165776,
+        "merged_effect": 0.047968079500285477,
+        "positive_fraction": 0.7380952380952381,
+        "right": "ctllm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04458788429771567,
+        "merged_effect": -0.0431155728414244,
+        "positive_fraction": 0.7380952380952381,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043656809292966746,
+        "merged_effect": -0.0020634031505347337,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043579978691366816,
+        "merged_effect": 0.009966259920808296,
+        "positive_fraction": 0.7380952380952381,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04102575199288957,
+        "merged_effect": 0.05318880015108577,
+        "positive_fraction": 0.7380952380952381,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04246346830213016,
+        "merged_effect": 0.056859696268747956,
+        "positive_fraction": 0.7380952380952381,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04447804163444845,
+        "merged_effect": -0.03619548505558971,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04286467156078243,
+        "merged_effect": 0.04000915940535288,
+        "positive_fraction": 0.7380952380952381,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.044072415132202336,
+        "merged_effect": -0.010791125774482121,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04372820143873767,
+        "merged_effect": 0.011044447274189096,
+        "positive_fraction": 0.7380952380952381,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043590504589722495,
+        "merged_effect": 0.019719348762145518,
+        "positive_fraction": 0.7380952380952381,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04422120335815427,
+        "merged_effect": -0.02001467364905656,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043997417800178656,
+        "merged_effect": -0.00921618180198495,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.042494088554952576,
+        "merged_effect": 0.02235373234776261,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043846455519767076,
+        "merged_effect": -0.0012257668720027926,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.043156988839058184,
+        "merged_effect": 0.008432826381544892,
+        "positive_fraction": 0.7380952380952381,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.042390349538758774,
+        "merged_effect": 0.0245322516878325,
+        "positive_fraction": 0.7380952380952381,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "amber",
+        "mean": 0.04243470423695525,
+        "merged_effect": 0.02360080302570629,
+        "positive_fraction": 0.7380952380952381,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "biomedlm",
+        "mean": 0.04292972245020389,
+        "merged_effect": 0.030740900287198298,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mgpt",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "biomedlm",
+        "mean": 0.04309320788655856,
+        "merged_effect": 0.017008123633404832,
+        "positive_fraction": 0.7142857142857143,
+        "right": "palmyra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "biomedlm",
+        "mean": 0.04313357246311542,
+        "merged_effect": 0.028715321507366942,
+        "positive_fraction": 0.7142857142857143,
+        "right": "polylm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04383041560698749,
+        "merged_effect": -0.002734252447675778,
+        "positive_fraction": 0.7142857142857143,
+        "right": "comma",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.041227137368367445,
+        "merged_effect": 0.05193459056334526,
+        "positive_fraction": 0.7380952380952381,
+        "right": "ctllm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04450288763207867,
+        "merged_effect": -0.040735666203588525,
+        "positive_fraction": 0.7380952380952381,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04360958892316841,
+        "merged_effect": 0.001903107912525052,
+        "positive_fraction": 0.7380952380952381,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04350914813666932,
+        "merged_effect": 0.012941143218103135,
+        "positive_fraction": 0.7380952380952381,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04097853162309124,
+        "merged_effect": 0.057155311214145556,
+        "positive_fraction": 0.7380952380952381,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04239263774743266,
+        "merged_effect": 0.059834579566042795,
+        "positive_fraction": 0.7380952380952381,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.044393044968811454,
+        "merged_effect": -0.033815578417753844,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04279384100608493,
+        "merged_effect": 0.04298404270264772,
+        "positive_fraction": 0.7380952380952381,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.044025194762404,
+        "merged_effect": -0.006824614711422335,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04364320477310067,
+        "merged_effect": 0.013424353912024966,
+        "positive_fraction": 0.7380952380952381,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.0435055079240855,
+        "merged_effect": 0.022099255399981386,
+        "positive_fraction": 0.7380952380952381,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.044136206692517284,
+        "merged_effect": -0.017634767011220687,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.043950197430380325,
+        "merged_effect": -0.005249670738925165,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04244686818515425,
+        "merged_effect": 0.026320243410822397,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.043775624965069586,
+        "merged_effect": 0.0017491164252920466,
+        "positive_fraction": 0.7380952380952381,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04310976846925986,
+        "merged_effect": 0.012399337444604678,
+        "positive_fraction": 0.7380952380952381,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.04234312916896045,
+        "merged_effect": 0.028498762750892286,
+        "positive_fraction": 0.7380952380952381,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "calm",
+        "mean": 0.042387483867156926,
+        "merged_effect": 0.027567314088766077,
+        "positive_fraction": 0.7380952380952381,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04182600069201256,
+        "merged_effect": 0.0836333358936871,
+        "positive_fraction": 0.7142857142857143,
+        "right": "ctllm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04417277626865464,
+        "merged_effect": -0.048053857730151056,
+        "positive_fraction": 0.7142857142857143,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04361283935811328,
+        "merged_effect": 0.008586111917456785,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04354696231209551,
+        "merged_effect": 0.02107582432325032,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.0416395463830554,
+        "merged_effect": 0.09146441686988754,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.042802622052604405,
+        "merged_effect": 0.08360040612050319,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04410412460411263,
+        "merged_effect": -0.0394037479978577,
+        "positive_fraction": 0.7142857142857143,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.043070090891705916,
+        "merged_effect": 0.061133023635976426,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04392454373753998,
+        "merged_effect": -0.004505472018464296,
+        "positive_fraction": 0.7142857142857143,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04363547448179338,
+        "merged_effect": 0.01964616741436581,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.043549413951158904,
+        "merged_effect": 0.030489794274311338,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04394360068142877,
+        "merged_effect": -0.019177733739691255,
+        "positive_fraction": 0.7142857142857143,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04386829573852222,
+        "merged_effect": -0.00214305605971854,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.042740798804602666,
+        "merged_effect": 0.0452118151649028,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04372461353102902,
+        "merged_effect": 0.006153121932835533,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04323797401768187,
+        "merged_effect": 0.024330456215576224,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04266299454245731,
+        "merged_effect": 0.048479594175007634,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "comma",
+        "mean": 0.04269626056610468,
+        "merged_effect": 0.047082421181818324,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.041244088250207075,
+        "merged_effect": -0.007052225471885276,
+        "positive_fraction": 0.7142857142857143,
+        "right": "danube",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04166038067914825,
+        "merged_effect": 0.09058937643398834,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04094368407347547,
+        "merged_effect": 0.07574466733427136,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.03968708770409037,
+        "merged_effect": 0.1734676813864191,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04019934381398436,
+        "merged_effect": 0.13826924913152425,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04117543658566507,
+        "merged_effect": 0.0015978842604080779,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04046681265308587,
+        "merged_effect": 0.11580186664699747,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "publisher_namespace",
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.041972085058574936,
+        "merged_effect": 0.07749779249806726,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.040706786463345836,
+        "merged_effect": 0.06064779967263159,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04062072593271134,
+        "merged_effect": 0.07149142653257712,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04101491266298121,
+        "merged_effect": 0.021823898518574525,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04191583705955718,
+        "merged_effect": 0.07986020845681302,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.040788340125637625,
+        "merged_effect": 0.12721507968143436,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.041121335292408974,
+        "merged_effect": 0.060821964943856575,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.041285515338716834,
+        "merged_effect": 0.10633372073210778,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.04071053586349228,
+        "merged_effect": 0.1304828586915392,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "ctllm",
+        "mean": 0.040743801887139636,
+        "merged_effect": 0.12908568569834988,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04392434624935816,
+        "merged_effect": -0.044575837460000434,
+        "positive_fraction": 0.7142857142857143,
+        "right": "eurollm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.043992671701273106,
+        "merged_effect": -0.02644962014103287,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.040964406786771344,
+        "merged_effect": -0.003136684983785054,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04265285923418912,
+        "merged_effect": 0.011065128937318858,
+        "positive_fraction": 0.7380952380952381,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04521842363260172,
+        "merged_effect": -0.058848427611057685,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04313430314457184,
+        "merged_effect": -0.002415300553397204,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.0443919028184982,
+        "merged_effect": -0.051121629427960974,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04428112338796325,
+        "merged_effect": -0.01948181733624201,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04410900232669428,
+        "merged_effect": -0.012252732762944992,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.044897375787234,
+        "merged_effect": -0.04536441810561339,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04430753081997156,
+        "merged_effect": -0.049940421448588096,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04261628541909223,
+        "merged_effect": -0.026262985836277425,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04431244389535343,
+        "merged_effect": -0.03540324157528174,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04336204823871103,
+        "merged_effect": -0.036703665310940714,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.042499579025874194,
+        "merged_effect": -0.02462909633122501,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "danube",
+        "mean": 0.04254947806134525,
+        "merged_effect": -0.025327682827819664,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04332613562827643,
+        "merged_effect": 0.025713184683451146,
+        "positive_fraction": 0.7142857142857143,
+        "right": "fox",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.041473926370191094,
+        "merged_effect": 0.09842045741018879,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04258179536878532,
+        "merged_effect": 0.08823776648070403,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04385569458481615,
+        "merged_effect": -0.03592572772770708,
+        "positive_fraction": 0.7142857142857143,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04284926420788683,
+        "merged_effect": 0.06577038399617725,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04375892372467566,
+        "merged_effect": 0.002450568521836949,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04338704446249692,
+        "merged_effect": 0.023124187684516434,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04330098393186242,
+        "merged_effect": 0.03396781454446196,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04369517066213229,
+        "merged_effect": -0.015699713469540633,
+        "positive_fraction": 0.7142857142857143,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.043702675725657905,
+        "merged_effect": 0.004812984480582705,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04257517879173835,
+        "merged_effect": 0.05216785570520405,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04350378684720994,
+        "merged_effect": 0.010790482293036363,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.043072354004817556,
+        "merged_effect": 0.03128649675587747,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.042497374529593,
+        "merged_effect": 0.05543563471530888,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "eurollm",
+        "mean": 0.04253064055324035,
+        "merged_effect": 0.05403846172211957,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04069507832819926,
+        "merged_effect": 0.08096538798507165,
+        "positive_fraction": 0.7142857142857143,
+        "right": "hyperclovax",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.0419674578050947,
+        "merged_effect": 0.07769213714423737,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04388282903800589,
+        "merged_effect": -0.019529532355198186,
+        "positive_fraction": 0.7142857142857143,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04236866106374696,
+        "merged_effect": 0.06084160028084229,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04374174146751203,
+        "merged_effect": 0.01698546205950376,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04313298884229512,
+        "merged_effect": 0.027710399974580625,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04299529199327994,
+        "merged_effect": 0.036385301462537045,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04362599076171171,
+        "merged_effect": -0.0033487209486650293,
+        "positive_fraction": 0.7142857142857143,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04366674413548834,
+        "merged_effect": 0.01856040603200093,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04216341489026226,
+        "merged_effect": 0.05013032018174849,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.043350445022731623,
+        "merged_effect": 0.019606674003486618,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04282631517436787,
+        "merged_effect": 0.036209414215530776,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04205967587406846,
+        "merged_effect": 0.05230883952181838,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "fox",
+        "mean": 0.04210403057226496,
+        "merged_effect": 0.051377390859692174,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.03995073806870816,
+        "merged_effect": 0.14348996978232453,
+        "positive_fraction": 0.7142857142857143,
+        "right": "kanana",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.040895755122229344,
+        "merged_effect": 0.0055134247485083,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04021820690780967,
+        "merged_effect": 0.12102258729779776,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04178563074961779,
+        "merged_effect": 0.08532887347426771,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.040427104999910105,
+        "merged_effect": 0.06456334016073181,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04034104446927562,
+        "merged_effect": 0.07540696702067734,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.040735231199545474,
+        "merged_effect": 0.025739439006674747,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04172938275060003,
+        "merged_effect": 0.08769128943301346,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.040601885816680464,
+        "merged_effect": 0.1350461606576348,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04087272954713278,
+        "merged_effect": 0.06604268559465687,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04109906102975967,
+        "merged_effect": 0.11416480170830823,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.040524081554535116,
+        "merged_effect": 0.13831393966773964,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "hyperclovax",
+        "mean": 0.04055734757818249,
+        "merged_effect": 0.13691676667455033,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.0425430165709219,
+        "merged_effect": 0.017985216723153542,
+        "positive_fraction": 0.7380952380952381,
+        "right": "llmjp",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.0412521506745103,
+        "merged_effect": 0.10773503662878195,
+        "positive_fraction": 0.7142857142857143,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04299740120802091,
+        "merged_effect": 0.07951004385675664,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04179317637521113,
+        "merged_effect": 0.06522514905293235,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04165547952619596,
+        "merged_effect": 0.07390005054088877,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.042286178294627726,
+        "merged_effect": 0.0341660281296867,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.042922403875997245,
+        "merged_effect": 0.08108498782925382,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04141907463077116,
+        "merged_effect": 0.11265490197900137,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04223393463349495,
+        "merged_effect": 0.06650011035142628,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.042081974914876766,
+        "merged_effect": 0.09873399601278365,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.041315335614577356,
+        "merged_effect": 0.11483342131907126,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "kanana",
+        "mean": 0.04135969031277384,
+        "merged_effect": 0.11390197265694506,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04302446048130462,
+        "merged_effect": 0.0045047872324374795,
+        "positive_fraction": 0.7380952380952381,
+        "right": "mapneo",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.044323251153956196,
+        "merged_effect": -0.04247151969566762,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.044143820058879235,
+        "merged_effect": -0.013715077514713106,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.043971698997610255,
+        "merged_effect": -0.0064859929414160895,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04476007245814998,
+        "merged_effect": -0.03959767828408448,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04423887915542955,
+        "merged_effect": -0.04129031171629474,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04254763375455023,
+        "merged_effect": -0.01761287610398407,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04420260123208621,
+        "merged_effect": -0.028483153789447057,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04329339657416902,
+        "merged_effect": -0.02805355557864736,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04243092736133219,
+        "merged_effect": -0.015978986598931655,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "llmjp",
+        "mean": 0.04248082639680324,
+        "merged_effect": -0.01667757309552631,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.04326487004712242,
+        "merged_effect": 0.05704266137222987,
+        "positive_fraction": 0.7380952380952381,
+        "right": "megrez",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.042274620285593846,
+        "merged_effect": 0.05174471956221629,
+        "positive_fraction": 0.7142857142857143,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.04213692343657867,
+        "merged_effect": 0.06041962105017271,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.042767622205010444,
+        "merged_effect": 0.020685598638970636,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.043189872715098755,
+        "merged_effect": 0.05861760534472704,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.041686543469872675,
+        "merged_effect": 0.09018751949447461,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.04263513789214722,
+        "merged_effect": 0.0496495734880312,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.042349443753978276,
+        "merged_effect": 0.07626661352825688,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.041582804453678866,
+        "merged_effect": 0.09236603883454449,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mapneo",
+        "mean": 0.04162715915187535,
+        "merged_effect": 0.09143459017241828,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04385460103163695,
+        "merged_effect": 0.016578395716555894,
+        "positive_fraction": 0.7380952380952381,
+        "right": "opencoder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04376854050100246,
+        "merged_effect": 0.02742202257650142,
+        "positive_fraction": 0.7380952380952381,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04416272723127233,
+        "merged_effect": -0.022245505437501173,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04401438010508459,
+        "merged_effect": -0.008278599455338376,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04288688317116504,
+        "merged_effect": 0.039076271769282966,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04391939268644553,
+        "merged_effect": 0.002062759669088976,
+        "positive_fraction": 0.7380952380952381,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04338405838424424,
+        "merged_effect": 0.018194912819956388,
+        "positive_fraction": 0.7380952380952381,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04280907890901968,
+        "merged_effect": 0.0423440507793878,
+        "positive_fraction": 0.7380952380952381,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "megrez",
+        "mean": 0.04284234493266705,
+        "merged_effect": 0.04094687778619849,
+        "positive_fraction": 0.7380952380952381,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mgpt",
+        "mean": 0.04348619449818608,
+        "merged_effect": 0.013905196034399797,
+        "positive_fraction": 0.7142857142857143,
+        "right": "palmyra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "mgpt",
+        "mean": 0.04340901839638604,
+        "merged_effect": 0.020675685417372858,
+        "positive_fraction": 0.7142857142857143,
+        "right": "polylm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.043034398752971784,
+        "merged_effect": 0.03288061733339959,
+        "positive_fraction": 0.7142857142857143,
+        "right": "pleias",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.04382277221351151,
+        "merged_effect": -0.00023106800926880888,
+        "positive_fraction": 0.7142857142857143,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.04377022903311032,
+        "merged_effect": 0.017759603695928772,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.04207898363223098,
+        "merged_effect": 0.04143703930823944,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.043452761036375444,
+        "merged_effect": 0.018756778540331753,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.04282474645184979,
+        "merged_effect": 0.030996359833576154,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.041962277239012954,
+        "merged_effect": 0.04307092881329186,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "opencoder",
+        "mean": 0.04201217627448401,
+        "merged_effect": 0.042372342316697204,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "palmyra",
+        "mean": 0.04357250383274073,
+        "merged_effect": 0.006942908763579392,
+        "positive_fraction": 0.7142857142857143,
+        "right": "polylm",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.04365065115224254,
+        "merged_effect": 0.006998016564028209,
+        "positive_fraction": 0.7380952380952381,
+        "right": "salamandra",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.04368416850247583,
+        "merged_effect": 0.0286032305558743,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.0419929231015965,
+        "merged_effect": 0.05228066616818497,
+        "positive_fraction": 0.7142857142857143,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.04331506418736025,
+        "merged_effect": 0.027431680028288174,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.04273868592121531,
+        "merged_effect": 0.04183998669352168,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.041876216708378475,
+        "merged_effect": 0.053914555673237385,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "pleias",
+        "mean": 0.04192611574384951,
+        "merged_effect": 0.05321596917664273,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.04407835523274569,
+        "merged_effect": -0.021064297458128295,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarashina",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.04238710983186637,
+        "merged_effect": 0.002613138154182376,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.043945762955792035,
+        "merged_effect": -0.0123023423829139,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.04313287265148517,
+        "merged_effect": -0.007827541320480913,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.04227040343864833,
+        "merged_effect": 0.004247027659234792,
+        "positive_fraction": 0.7380952380952381,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "salamandra",
+        "mean": 0.04232030247411938,
+        "merged_effect": 0.003548441162640137,
+        "positive_fraction": 0.7380952380952381,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarashina",
+        "mean": 0.04283063517214728,
+        "merged_effect": 0.04143868772802872,
+        "positive_fraction": 0.7380952380952381,
+        "right": "sarvam",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarashina",
+        "mean": 0.04384439535442186,
+        "merged_effect": 0.0036377036415861466,
+        "positive_fraction": 0.7380952380952381,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarashina",
+        "mean": 0.04332781038522649,
+        "merged_effect": 0.020557328778702144,
+        "positive_fraction": 0.7380952380952381,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarashina",
+        "mean": 0.042752830910001934,
+        "merged_effect": 0.044706466738133555,
+        "positive_fraction": 0.7380952380952381,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarashina",
+        "mean": 0.0427860969336493,
+        "merged_effect": 0.043309293744944244,
+        "positive_fraction": 0.7380952380952381,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarvam",
+        "mean": 0.04234106610919578,
+        "merged_effect": 0.03520761779133371,
+        "positive_fraction": 0.7142857142857143,
+        "right": "seed_coder",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarvam",
+        "mean": 0.04220031345130694,
+        "merged_effect": 0.06791220000332349,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarvam",
+        "mean": 0.04162533397608238,
+        "merged_effect": 0.0920613379627549,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "sarvam",
+        "mean": 0.04165859999972974,
+        "merged_effect": 0.09066416496956559,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "seed_coder",
+        "mean": 0.04300396639330139,
+        "merged_effect": 0.02128671182511599,
+        "positive_fraction": 0.7142857142857143,
+        "right": "teuken",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "seed_coder",
+        "mean": 0.04223732709300198,
+        "merged_effect": 0.037386137131403596,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "seed_coder",
+        "mean": 0.04228168179119847,
+        "merged_effect": 0.03645468846927739,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "teuken",
+        "mean": 0.04212250918916158,
+        "merged_effect": 0.07117997901342832,
+        "positive_fraction": 0.7142857142857143,
+        "right": "trillion",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "teuken",
+        "mean": 0.042155775212808944,
+        "merged_effect": 0.06978280602023901,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      },
+      {
+        "groups": 42,
+        "left": "trillion",
+        "mean": 0.041580795737584386,
+        "merged_effect": 0.09393194397967042,
+        "positive_fraction": 0.7142857142857143,
+        "right": "viking",
+        "shared_by": [
+          "implementation_architecture"
+        ]
+      }
+    ],
+    "analyses": 260,
+    "mean_range": [
+      0.03836485868392347,
+      0.04521842363260172
+    ],
+    "positive_fraction_range": [
+      0.7142857142857143,
+      0.7380952380952381
+    ],
+    "worst_mean_case": {
+      "groups": 42,
+      "left": "allam",
+      "mean": 0.03836485868392347,
+      "merged_effect": 0.22900130023342907,
+      "positive_fraction": 0.7142857142857143,
+      "right": "hyperclovax",
+      "shared_by": [
+        "implementation_architecture"
+      ]
+    },
+    "worst_mean_full_inference": {
+      "ci95": [
+        0.019952818042362777,
+        0.05772071957620417
+      ],
+      "exact": false,
+      "group_size_max": null,
+      "group_size_median": null,
+      "group_size_min": null,
+      "groups": 42,
+      "mean": 0.03836485868392347,
+      "per_group": {
+        "MERGED::allam+hyperclovax": 0.22900130023342907,
+        "afm": 0.07421103990078542,
+        "aixcoder": 0.04648622292437843,
+        "amber": -0.010866180954681115,
+        "biomedlm": 0.043813143812105104,
+        "calm": -0.004916414360091437,
+        "codeshell": 0.0421543537209364,
+        "comma": 0.0016300713771555397,
+        "crystal": -0.08193307612015399,
+        "ctllm": 0.16563660041021866,
+        "danube": -0.06461516743258659,
+        "eurollm": 0.01554215245775803,
+        "fox": 0.030798700796297707,
+        "galactica": -0.004202829916909123,
+        "hunyuan": 0.11122633167657632,
+        "index": 0.07445301996066256,
+        "instella": 0.11254212050931384,
+        "kanana": 0.12458557349217703,
+        "ling": -0.014317893911115154,
+        "llmjp": -0.053081687789528785,
+        "mapneo": 0.09088449976538687,
+        "megrez": -0.010641015414084132,
+        "mgpt": 0.024204778524744897,
+        "mimo": -0.04106490426183762,
+        "minerva": 0.10754424111926764,
+        "moonlight": 0.11560030515465725,
+        "motif": 0.03619218923447809,
+        "opencoder": 0.02565153276010257,
+        "orion": 0.03720067894075385,
+        "palmyra": 0.0036056135440546977,
+        "pleias": 0.040109701906696604,
+        "polylm": 0.01361749920262878,
+        "powerlm": 0.019988945362356902,
+        "salamandra": -0.026113668778640187,
+        "sarashina": -0.00591618349659262,
+        "sarvam": 0.08879355895265006,
+        "seed_coder": 0.00841464721067553,
+        "skywork": -0.04328088975321387,
+        "teuken": 0.04703084105399691,
+        "trillion": 0.09532911697285973,
+        "viking": 0.09253477098648111,
+        "yuan": 0.05349042495063461
+      },
+      "permutations": 1000000,
+      "positive_fraction": 0.7142857142857143,
+      "positive_groups": 30,
+      "registered_style_pass": true,
+      "two_sided_p": 0.000232999767000233
+    }
+  },
+  "status": "retrospective robustness analysis; does not alter the frozen P0y decision",
+  "targets": 70,
+  "taxonomy_robust": true
+}

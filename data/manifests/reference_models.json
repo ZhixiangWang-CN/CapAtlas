@@ -1,0 +1,324 @@
+[
+  {
+    "family": "mistral",
+    "key": "biomistral7b",
+    "model_id": "BioMistral/BioMistral-7B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "bloom",
+    "key": "bloom17b_base",
+    "model_id": "bigscience/bloom-1b7",
+    "source_cohort": "capatlas_p0d",
+    "stage": "base"
+  },
+  {
+    "family": "deepseek",
+    "key": "deepseek_coder13b",
+    "model_id": "deepseek-ai/deepseek-coder-1.3b-instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "deepseek",
+    "key": "deepseek_math7b",
+    "model_id": "deepseek-ai/deepseek-math-7b-instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "deepseek_r1_8b",
+    "model_id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "falcon",
+    "key": "falconrw1b_base",
+    "model_id": "tiiuae/falcon-rw-1b",
+    "source_cohort": "capatlas_p0d",
+    "stage": "base"
+  },
+  {
+    "family": "gemma",
+    "key": "gemma2_2b_inst",
+    "model_id": "unsloth/gemma-2-2b-it",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "gemma",
+    "key": "gemma2_9b",
+    "model_id": "unsloth/gemma-2-9b-it",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "gemma3",
+    "key": "gemma3_4b_inst",
+    "model_id": "unsloth/gemma-3-4b-it",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "gptneo",
+    "key": "gptneo13b_base",
+    "model_id": "EleutherAI/gpt-neo-1.3B",
+    "source_cohort": "capatlas_p0d",
+    "stage": "base"
+  },
+  {
+    "family": "granite",
+    "key": "granite31_2b_inst",
+    "model_id": "ibm-granite/granite-3.1-2b-instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "llama31_8b_inst",
+    "model_id": "NousResearch/Meta-Llama-3.1-8B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "llama32_3b_inst",
+    "model_id": "unsloth/Llama-3.2-3B-Instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "llama3_8b_inst",
+    "model_id": "NousResearch/Meta-Llama-3-8B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "med42_8b",
+    "model_id": "m42-health/Llama3-Med42-8B",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "gemma3",
+    "key": "medgemma4b_inst",
+    "model_id": "google/medgemma-4b-it",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "meditron7b",
+    "model_id": "epfl-llm/meditron-7b",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "mistral",
+    "key": "mistral7b_inst",
+    "model_id": "mistralai/Mistral-7B-Instruct-v0.2",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "mistral",
+    "key": "mistral7b_v03",
+    "model_id": "mistralai/Mistral-7B-Instruct-v0.3",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "olmo0425",
+    "key": "olmo0425_1b_inst",
+    "model_id": "allenai/OLMo-2-0425-1B-Instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "olmo",
+    "key": "olmo7b_base",
+    "model_id": "allenai/OLMo-2-1124-7B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "olmo",
+    "key": "olmo7b_dpo",
+    "model_id": "allenai/OLMo-2-1124-7B-DPO",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "olmo",
+    "key": "olmo7b_inst",
+    "model_id": "allenai/OLMo-2-1124-7B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "olmo",
+    "key": "olmo7b_sft",
+    "model_id": "allenai/OLMo-2-1124-7B-SFT",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "llama",
+    "key": "openbio8b",
+    "model_id": "aaditya/Llama3-OpenBioLLM-8B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "mistral",
+    "key": "openhermes7b",
+    "model_id": "teknium/OpenHermes-2.5-Mistral-7B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "opt",
+    "key": "opt13b_base",
+    "model_id": "facebook/opt-1.3b",
+    "source_cohort": "capatlas_p0d",
+    "stage": "base"
+  },
+  {
+    "family": "phi2",
+    "key": "phi2_base",
+    "model_id": "microsoft/phi-2",
+    "source_cohort": "capatlas_p0d",
+    "stage": "base"
+  },
+  {
+    "family": "phi",
+    "key": "phi35mini",
+    "model_id": "microsoft/Phi-3.5-mini-instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "pythia",
+    "key": "pythia160m",
+    "model_id": "EleutherAI/pythia-160m",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen05b_base",
+    "model_id": "Qwen/Qwen2.5-0.5B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen05b_inst",
+    "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen14b_inst",
+    "model_id": "Qwen/Qwen2.5-14B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen15b_base",
+    "model_id": "Qwen/Qwen2.5-1.5B",
+    "source_cohort": "capatlas_p0c",
+    "stage": "base"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen15b_inst",
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen3b_inst",
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen7b_inst",
+    "model_id": "Qwen/Qwen2.5-7B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen_coder15b",
+    "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen_math15b",
+    "model_id": "Qwen/Qwen2.5-Math-1.5B-Instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "qwen_math7b",
+    "model_id": "Qwen/Qwen2.5-Math-7B-Instruct",
+    "source_cohort": "capatlas_p0c",
+    "stage": "instruct"
+  },
+  {
+    "family": "qwen",
+    "key": "r1_qwen15b",
+    "model_id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "mistral",
+    "key": "saul7b_inst",
+    "model_id": "Equall/Saul-7B-Instruct-v1",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "smollm",
+    "key": "smollm2_17b_inst",
+    "model_id": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "stablelm",
+    "key": "stablelm16b_chat",
+    "model_id": "stabilityai/stablelm-2-1_6b-chat",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "tinyllama",
+    "key": "tinyllama11b_chat",
+    "model_id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  },
+  {
+    "family": "yi",
+    "key": "yi15_6b_chat",
+    "model_id": "01-ai/Yi-1.5-6B-Chat",
+    "source_cohort": "capatlas_p0d",
+    "stage": "instruct"
+  }
+]

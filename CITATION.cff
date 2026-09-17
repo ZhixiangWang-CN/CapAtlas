@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "CapAtlas: From Sparse Fingerprints to Valid Claims"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+version: 0.1.0
+date-released: 2026-09-16
+license: MIT
+repository-code: "https://github.com/ZhixiangWang-CN/CapAtlas"
+authors:
+  - name: "Anonymous authors"

@@ -1,0 +1,252 @@
+[
+  {
+    "key": "apertus8b_base",
+    "model_id": "swiss-ai/Apertus-8B-2509",
+    "revision": "3162c99675aa588097cecd4a24b9aa1f712af477"
+  },
+  {
+    "key": "exaone4_1b2",
+    "model_id": "LGAI-EXAONE/EXAONE-4.0-1.2B",
+    "revision": "3abf2810673c7c0778df64a73c2d52eab32d91c4"
+  },
+  {
+    "key": "nemotron_mini4b",
+    "model_id": "nvidia/Nemotron-Mini-4B-Instruct",
+    "revision": "791833e92ebddb0bc2c1007f6d2b6764f886a2ae"
+  },
+  {
+    "key": "minicpm4_0b5",
+    "model_id": "openbmb/MiniCPM4-0.5B",
+    "revision": "5253c7fcc5e29e1cf3eacb59a58adf1ba4df8630"
+  },
+  {
+    "key": "biogpt_base",
+    "model_id": "microsoft/biogpt",
+    "revision": "eb0d815e95434dc9e3b78f464e52b899bee7d923"
+  },
+  {
+    "key": "lfm2_1b2",
+    "model_id": "LiquidAI/LFM2-1.2B",
+    "revision": "40f3da0d0164913923aee9462c23077868b816a3"
+  },
+  {
+    "key": "mamba1b4",
+    "model_id": "state-spaces/mamba-1.4b-hf",
+    "revision": "6e46eae61c27280517feef46f536d16b91076f08"
+  },
+  {
+    "key": "pharia7b",
+    "model_id": "Aleph-Alpha/Pharia-1-LLM-7B-control-hf",
+    "revision": "d8fc10189eb66213122783f6bb99369ac9dab781"
+  },
+  {
+    "key": "codegen2_1b",
+    "model_id": "Salesforce/codegen2-1B",
+    "revision": "47f05cd3c1b357745fbead74202fc1efe87b6d25"
+  },
+  {
+    "key": "mamba2_1b3",
+    "model_id": "AntonV/mamba2-1.3b-hf",
+    "revision": "703e19a43f397c70315244a3424d79456b54fb34"
+  },
+  {
+    "key": "falcon_h1_1b5",
+    "model_id": "tiiuae/Falcon-H1-1.5B-Base",
+    "revision": "06d7330266253c20784f58b0a846dc09a9d12cee"
+  },
+  {
+    "key": "bamba9b",
+    "model_id": "ibm-ai-platform/Bamba-9B",
+    "revision": "50ec8766310eae056e05e42ba70df45645912e1e"
+  },
+  {
+    "key": "zamba2_1b2",
+    "model_id": "Zyphra/Zamba2-1.2B",
+    "revision": "6b05bf29d1bb4ca71a36d12f7da4d3120dcde7fe"
+  },
+  {
+    "key": "polycoder2b7",
+    "model_id": "NinedayWang/PolyCoder-2.7B",
+    "revision": "84cbd497bdc0edde71141a3d73eb58d573f7522b"
+  },
+  {
+    "key": "glm4_9b",
+    "model_id": "THUDM/glm-4-9b-0414",
+    "revision": "645b8482494e31b6b752272bf7f7f273ef0f3caf"
+  },
+  {
+    "key": "falcon_mamba7b",
+    "model_id": "tiiuae/Falcon-Mamba-7B",
+    "revision": "080ad94b3619e2c2d0afa59bafdc6113465b7006"
+  },
+  {
+    "key": "gptj6b",
+    "model_id": "EleutherAI/gpt-j-6b",
+    "revision": "47e169305d2e8376be1d31e765533382721b2cc1"
+  },
+  {
+    "key": "gpt_oss20b",
+    "model_id": "openai/gpt-oss-20b",
+    "revision": "6cee5e81ee83917806bbde320786a8fb61efebee"
+  },
+  {
+    "key": "olmoe_1b7b",
+    "model_id": "allenai/OLMoE-1B-7B-0125",
+    "revision": "9b0c1aa87e34a20052389dce1f0cf01da783f654"
+  },
+  {
+    "key": "rwkv4_1b5",
+    "model_id": "RWKV/rwkv-4-1b5-pile",
+    "revision": "643585471eaf5821d94dfcb498ab5b94a36b42cf"
+  },
+  {
+    "key": "granite4h_1b",
+    "model_id": "ibm-granite/granite-4.0-h-1b",
+    "revision": "d18cca4c121edb87d022116d281ce212c9136f57"
+  },
+  {
+    "key": "persimmon8b",
+    "model_id": "adept/persimmon-8b-base",
+    "revision": "94dc4e0bb7eeb26ec521eb3f78c36c91f6fe866b"
+  },
+  {
+    "key": "starcoder2_3b",
+    "model_id": "bigcode/starcoder2-3b",
+    "revision": "733247c55e3f73af49ce8e9c7949bf14af205928"
+  },
+  {
+    "key": "qwen3_0b6_base",
+    "model_id": "Qwen/Qwen3-0.6B-Base",
+    "revision": "da87bfb608c14b7cf20ba1ce41287e8de496c0cd"
+  },
+  {
+    "key": "incoder1b",
+    "model_id": "facebook/incoder-1B",
+    "revision": "1e0e77a92e7a2a30c95da8d24d818122cfc37f7c"
+  },
+  {
+    "key": "redpajama3b",
+    "model_id": "togethercomputer/RedPajama-INCITE-Base-3B-v1",
+    "revision": "094fbdd0c911feb485ce55de1952ab2e75277e1e"
+  },
+  {
+    "key": "decilm7b",
+    "model_id": "Deci/DeciLM-7B",
+    "revision": "c3c9f4226801dc0433f32aebffe0aac68ee2f051"
+  },
+  {
+    "key": "exaone35_2b4",
+    "model_id": "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct",
+    "revision": "ccce25bd39c141fe053e0bc75818a8f5fe962802"
+  },
+  {
+    "key": "exaone35_7b8",
+    "model_id": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
+    "revision": "553ea250b9a5317231459279d5847d6cf955b9aa"
+  },
+  {
+    "key": "bitnet2b_bf16",
+    "model_id": "microsoft/bitnet-b1.58-2B-4T-bf16",
+    "revision": "276681394656abdadb8e80e5b2c3db5e5d7fcaff"
+  },
+  {
+    "key": "gpt2_small",
+    "model_id": "openai-community/gpt2",
+    "revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e"
+  },
+  {
+    "key": "gpt2_medium",
+    "model_id": "openai-community/gpt2-medium",
+    "revision": "6dcaa7a952f72f9298047fd5137cd6e4f05f41da"
+  },
+  {
+    "key": "gpt2_xl",
+    "model_id": "openai-community/gpt2-xl",
+    "revision": "15ea56dee5df4983c59b2538573817e1667135e2"
+  },
+  {
+    "key": "pythia2b8",
+    "model_id": "EleutherAI/pythia-2.8b-deduped",
+    "revision": "7d977fed8c4ce9649816af8cd5fe36a639cbe5b2"
+  },
+  {
+    "key": "redpajama3b_inst",
+    "model_id": "togethercomputer/RedPajama-INCITE-Instruct-3B-v1",
+    "revision": "0c66778ee09a036886741707733620b91057909a"
+  },
+  {
+    "key": "granite31moe3b",
+    "model_id": "ibm-granite/granite-3.1-3b-a800m-instruct",
+    "revision": "a02780686e08a03fe0d2679a293b5c74a90efa89"
+  },
+  {
+    "key": "hunyuan7b_pre",
+    "model_id": "tencent/Hunyuan-7B-Pretrain",
+    "revision": "296c34321929a729b19adf1a1ba6507ffa1f16b1"
+  },
+  {
+    "key": "internlm25_1b8",
+    "model_id": "internlm/internlm2_5-1_8b-chat",
+    "revision": "57dcbc5455bf050d27a80f0ebd7808387caa714d"
+  },
+  {
+    "key": "numinamath7b",
+    "model_id": "AI-MO/NuminaMath-7B-CoT",
+    "revision": "ff7e3044218efe64128bd9c21f9ec66c3de04324"
+  },
+  {
+    "key": "smollm2_360m",
+    "model_id": "HuggingFaceTB/SmolLM2-360M",
+    "revision": "f8027fd0eaeea54caa13c31d31b9fdc459c38b49"
+  },
+  {
+    "key": "smollm2_360m_inst",
+    "model_id": "HuggingFaceTB/SmolLM2-360M-Instruct",
+    "revision": "a10cc1512eabd3dde888204e902eca88bddb4951"
+  },
+  {
+    "key": "mobillama05b",
+    "model_id": "MBZUAI/MobiLlama-05B",
+    "revision": "86c40a2fe2f139594b0b0a270b6012fe09adaf5c"
+  },
+  {
+    "key": "xgen7b_base",
+    "model_id": "Salesforce/xgen-7b-8k-base",
+    "revision": "14ca1dadca23f5fb99d99c90b1638ecff2a52f9e"
+  },
+  {
+    "key": "falcon3_1b_inst",
+    "model_id": "tiiuae/Falcon3-1B-Instruct",
+    "revision": "28ba2251970a01dd1edc7ba7dad2eb71216ccfdf"
+  },
+  {
+    "key": "openllama7b_v2",
+    "model_id": "openlm-research/open_llama_7b_v2",
+    "revision": "e5961def23172a2384543940e773ab676033c963"
+  },
+  {
+    "key": "minicpm3_4b",
+    "model_id": "openbmb/MiniCPM3-4B",
+    "revision": "d6b14ddaefdb11c624dd75c3c779549bc90b08cb"
+  },
+  {
+    "key": "olmo2_1b_sft",
+    "model_id": "allenai/OLMo-2-0425-1B-SFT",
+    "revision": "0d85a3d037876ce6ac7d4311d994400fc66ac27f"
+  },
+  {
+    "key": "openelm1b1_inst",
+    "model_id": "apple/OpenELM-1_1B-Instruct",
+    "revision": "effd796da2a77361d7360e45e54c7cc14bc5df2a"
+  },
+  {
+    "key": "phi1b5",
+    "model_id": "microsoft/phi-1_5",
+    "revision": "77aa61eeac94fbf33d492b9f2744c98b42d5b5eb"
+  },
+  {
+    "key": "plamo2_1b",
+    "model_id": "pfnet/plamo-2-1b",
+    "revision": "92c75fd6eea9018bcb9c33ee8921589febe071fa"
+  }
+]

@@ -1,0 +1,290 @@
+{
+  "status": "complete",
+  "analysis_role": "server-side parallel replication of retrospective reliability and resolution audit",
+  "cohort": {
+    "references": 46,
+    "targets": 70,
+    "lineages": 43,
+    "procedural_exclusions": [
+      "moonlight16b_a3b_inst",
+      "xlstm7b"
+    ]
+  },
+  "decoder_note": "SoftMap is refit on the second-ontology reference profiles; this is construct revalidation, not fixed-map transfer.",
+  "nominal": {
+    "softmap": {
+      "ndcg5": 0.8310132935854856,
+      "recall5": 0.4480620155038759,
+      "kendall_tau": 0.7639890648990749,
+      "top1_regret": 0.44485438296095076,
+      "capability_rmse": null
+    },
+    "calibration_only": {
+      "ndcg5": 0.8371947928953373,
+      "recall5": 0.4635658914728682,
+      "kendall_tau": 0.7801520428416282,
+      "top1_regret": 0.4583947620239061,
+      "capability_rmse": null
+    },
+    "soft_js": {
+      "ndcg5": 0.8230120753860521,
+      "recall5": 0.44728682170542655,
+      "kendall_tau": 0.5948769801145939,
+      "top1_regret": 0.43347817964418806,
+      "capability_rmse": null
+    }
+  },
+  "split_half_reliability": {
+    "split_definition": "Within each task, item-id-sorted even versus odd indices (24 items per half)",
+    "bidirectional_lineage_macro": {
+      "ndcg5": 0.9385134818489893,
+      "recall5": 0.6333333333333333,
+      "kendall_tau": 0.815548814739917,
+      "top1_regret": 0.16022706957703722,
+      "capability_rmse": null
+    },
+    "top5_neighbor_jaccard": {
+      "mean": 0.496754645010459,
+      "ci95": [
+        0.4342619509043927,
+        0.5615390826873385
+      ],
+      "n_lineages": 43
+    },
+    "top1_neighbor_agreement": {
+      "mean": 0.24806201550387597,
+      "ci95": [
+        0.14341085271317827,
+        0.3682170542635659
+      ],
+      "n_lineages": 43
+    },
+    "oracle_distance_kendall_tau": {
+      "mean": 0.815548814739917,
+      "ci95": [
+        0.7948393438939446,
+        0.8345133505598621
+      ],
+      "n_lineages": 43
+    }
+  },
+  "nested_bootstrap": {
+    "draws": 20000,
+    "resampling": "48 items/task with replacement, then 43 lineages with replacement",
+    "parallel_replication": true,
+    "softmap_minus_soft_js": {
+      "ndcg5": {
+        "mean": 0.0111670803221486,
+        "ci95": [
+          -0.0397758342960183,
+          0.06391960099236321
+        ],
+        "probability_positive": 0.6653
+      },
+      "recall5": {
+        "mean": 0.01643918604651163,
+        "ci95": [
+          -0.08449612403100776,
+          0.12093023255813952
+        ],
+        "probability_positive": 0.61895
+      },
+      "kendall_tau": {
+        "mean": 0.1731352896678276,
+        "ci95": [
+          0.1323890574092799,
+          0.21453057708871662
+        ],
+        "probability_positive": 1.0
+      },
+      "top1_regret": {
+        "mean": -0.002462139427236927,
+        "ci95": [
+          -0.15841797021324255,
+          0.1416551854704239
+        ],
+        "probability_positive": 0.497
+      }
+    },
+    "softmap_minus_calibration_only": {
+      "ndcg5": {
+        "mean": -0.009097566385430772,
+        "ci95": [
+          -0.03609195358526351,
+          0.015489869337681705
+        ],
+        "probability_positive": 0.2471
+      },
+      "recall5": {
+        "mean": -0.010010193798449613,
+        "ci95": [
+          -0.08682170542635659,
+          0.06744186046511627
+        ],
+        "probability_positive": 0.3966
+      },
+      "kendall_tau": {
+        "mean": -0.014600473355053739,
+        "ci95": [
+          -0.03802568999737855,
+          0.00695071714788599
+        ],
+        "probability_positive": 0.0954
+      },
+      "top1_regret": {
+        "mean": 0.012509619147059416,
+        "ci95": [
+          -0.09318547562533373,
+          0.11600794110735907
+        ],
+        "probability_positive": 0.5981
+      }
+    }
+  },
+  "resolution_analysis": {
+    "global_minus_local_delta_difference": {
+      "mean": 0.041920383477511876,
+      "ci95": [
+        -0.013178388196082831,
+        0.09358499045051118
+      ],
+      "interpretation": "Positive means SoftMap's pair-accuracy gain over soft-JS is larger globally than within the oracle top 10."
+    },
+    "top5_boundary_margin_association": {
+      "spearman_soft_recall": -0.09602834747516192,
+      "spearman_js_recall": -0.29935981575029574,
+      "quartile_bins": [
+        {
+          "range": [
+            null,
+            0.009424639581665575
+          ],
+          "n_targets": 18,
+          "mean_margin": 0.003906393703495122,
+          "soft_recall5": 0.5111111111111112,
+          "js_recall5": 0.6666666666666666,
+          "soft_exact_top5": 0.0,
+          "js_exact_top5": 0.2222222222222222
+        },
+        {
+          "range": [
+            0.009424639581665575,
+            0.01977331792044589
+          ],
+          "n_targets": 17,
+          "mean_margin": 0.013022069364118672,
+          "soft_recall5": 0.38823529411764707,
+          "js_recall5": 0.3764705882352941,
+          "soft_exact_top5": 0.0,
+          "js_exact_top5": 0.058823529411764705
+        },
+        {
+          "range": [
+            0.01977331792044589,
+            0.03517560446784978
+          ],
+          "n_targets": 17,
+          "mean_margin": 0.025722262124146987,
+          "soft_recall5": 0.4588235294117647,
+          "js_recall5": 0.4117647058823529,
+          "soft_exact_top5": 0.058823529411764705,
+          "js_exact_top5": 0.058823529411764705
+        },
+        {
+          "range": [
+            0.03517560446784978,
+            null
+          ],
+          "n_targets": 18,
+          "mean_margin": 0.051950844985488964,
+          "soft_recall5": 0.4,
+          "js_recall5": 0.39999999999999997,
+          "soft_exact_top5": 0.05555555555555555,
+          "js_exact_top5": 0.1111111111111111
+        }
+      ]
+    },
+    "pairwise_accuracy_by_oracle_margin": [
+      {
+        "range": [
+          null,
+          0.3055350539981066
+        ],
+        "n_pairs": 18113,
+        "soft_accuracy_lineage_macro": 0.7514301488289798,
+        "js_accuracy_lineage_macro": 0.6339579201879775,
+        "delta_lineage_macro": 0.11747222864100239,
+        "delta_ci95": [
+          0.09220880443046708,
+          0.14381533520572023
+        ]
+      },
+      {
+        "range": [
+          0.3055350539981066,
+          0.7440390137130325
+        ],
+        "n_pairs": 18112,
+        "soft_accuracy_lineage_macro": 0.872359188405828,
+        "js_accuracy_lineage_macro": 0.8057546070127041,
+        "delta_lineage_macro": 0.06660458139312385,
+        "delta_ci95": [
+          0.032513376614589654,
+          0.09914397018295364
+        ]
+      },
+      {
+        "range": [
+          0.7440390137130325,
+          1.644470268316592
+        ],
+        "n_pairs": 18112,
+        "soft_accuracy_lineage_macro": 0.9219740196899419,
+        "js_accuracy_lineage_macro": 0.8379432775927048,
+        "delta_lineage_macro": 0.08403074209723708,
+        "delta_ci95": [
+          0.05352312766612692,
+          0.11707699604387378
+        ]
+      },
+      {
+        "range": [
+          1.644470268316592,
+          null
+        ],
+        "n_pairs": 18113,
+        "soft_accuracy_lineage_macro": 0.9884741790481109,
+        "js_accuracy_lineage_macro": 0.7982201203674957,
+        "delta_lineage_macro": 0.19025405868061523,
+        "delta_ci95": [
+          0.11015552919186504,
+          0.2799725119936818
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "host": "fsmbagcilabgpu1.fsm.northwestern.edu",
+    "platform": "Linux-5.14.0-687.39.1.el9_8.x86_64-x86_64-with-glibc2.34",
+    "python": "3.9.25",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "sklearn": "1.6.1",
+    "seed": 20260916,
+    "worker_seeds": [
+      17589777890202796842,
+      12545602446374637349,
+      11174791513762315072,
+      15700661152455971531,
+      2849086772100652466,
+      319654008582080984,
+      8268244998995483726,
+      13101428384562279473
+    ],
+    "workers": 8,
+    "elapsed_seconds": 477.17635011672974,
+    "script_sha256": "552dae8c3b74400daf164cc9d38f620aac02b1fe35ea58a5b0b680c5da9017b6",
+    "base_script_sha256": "ffd7c470ba3f8ffecad502261f16939cf9b08f8733e56820ccfd84a717cd28b9",
+    "manifest_sha256": "e2c7a952ac3bcde44e7745d452b75b3fad38ab6e3e4950c1b7212b4c088d4b7f"
+  }
+}

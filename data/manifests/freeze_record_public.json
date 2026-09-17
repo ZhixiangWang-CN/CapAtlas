@@ -1,0 +1,40 @@
+{
+  "excluded_previously_evaluated_model_ids": {
+    "keys": [
+      "galactica13b"
+    ],
+    "model_ids": [
+      "facebook/galactica-1.3b"
+    ]
+  },
+  "frozen_at_utc": "2026-09-06T00:46:07.313524+00:00",
+  "manifest_sha256": "b0ca0a083c0f91865b99599a4bbc04cfe6cd0b13a632940a3c3ee4e8e1e19f35",
+  "metadata_sha256": "1eddb875b66cca1caa64d83c0939e44e1694b1a72b03de0cd0f92dba64333c53",
+  "n_lineages": 44,
+  "n_models": 72,
+  "oos_candidates": [
+    "allam7b_inst",
+    "biomedlm27b",
+    "calm2_7b",
+    "calm2_7b_chat",
+    "ctllm2b_base",
+    "eurollm17b",
+    "hyperclovax05b_inst",
+    "llmjp3_18b",
+    "llmjp3_37b",
+    "llmjp3_37b_inst",
+    "mgpt13b_large",
+    "mgpt13b_multi",
+    "minerva7b_base",
+    "minerva7b_inst",
+    "palmyra_small",
+    "pleias350m",
+    "polylm17b",
+    "salamandra2b",
+    "sarashina2_7b",
+    "sarvam1_2b",
+    "teuken7b_inst",
+    "viking7b"
+  ],
+  "outcomes_inspected_before_freeze": false
+}
