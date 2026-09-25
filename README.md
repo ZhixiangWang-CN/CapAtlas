@@ -4,9 +4,9 @@
 into a reference-supervised capability geometry. It then returns a relative capability profile
 and ranked peer models while keeping the target's capability oracle sealed until scoring.
 
-The repository accompanies the ICLR submission **“CapAtlas: From Sparse Fingerprints to Valid
-Claims.”** It contains the clean reference implementation, frozen protocols and manifests,
-derived result artifacts, and checksum-backed verification scripts.
+The repository accompanies the ICLR submission **“CapAtlas: Resolution-Specific Validity of
+Sparse Behavioral Model Maps.”** It contains the clean reference implementation, frozen protocols
+and manifests, derived result artifacts, and checksum-backed verification scripts.
 
 ## What is new
 
